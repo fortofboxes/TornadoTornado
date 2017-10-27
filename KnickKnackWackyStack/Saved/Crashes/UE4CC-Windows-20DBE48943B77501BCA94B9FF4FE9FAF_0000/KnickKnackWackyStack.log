@@ -1,0 +1,1607 @@
+﻿Log file open, 10/18/17 15:27:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: KnickKnackWackyStack
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-252825421) SRandInit(-252825421).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.190412
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.18-22.27.38:869][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.18-22.27.38:869][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.18-22.27.39:016][  0]LogInit: Computer: DIT2010US
+[2017.10.18-22.27.39:016][  0]LogInit: User: christopherreilly
+[2017.10.18-22.27.39:016][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.18-22.27.39:016][  0]LogInit: High frequency timer resolution =3.320361 MHz
+[2017.10.18-22.27.39:016][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2017.10.18-22.27.39:016][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.18-22.27.39:016][  0]LogMemory: Process Physical Memory: 283.37 MB used, 283.37 MB peak
+[2017.10.18-22.27.39:016][  0]LogMemory: Process Virtual Memory: 278.90 MB used, 278.90 MB peak
+[2017.10.18-22.27.39:016][  0]LogMemory: Physical Memory: 4396.36 MB used,  7830.62 MB free, 12226.98 MB total
+[2017.10.18-22.27.39:016][  0]LogMemory: Virtual Memory: 676.98 MB used,  7830.62 MB free, 8388608.00 MB total
+[2017.10.18-22.27.39:820][  0]LogInit: Using OS detected language (en-US).
+[2017.10.18-22.27.39:820][  0]LogInit: Using OS detected locale (en-US).
+[2017.10.18-22.27.40:002][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.18-22.27.43:029][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.18-22.27.43:067][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.10.18-22.27.43:067][  0]LogD3D11RHI:       8070/0/5857 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.18-22.27.43:067][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.18-22.27.43:072][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.18-22.27.43:082][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.18-22.27.43:082][  0]LogWindows: EnumDisplayDevices:
+[2017.10.18-22.27.43:083][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.10.18-22.27.43:083][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.18-22.27.43:083][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.18-22.27.43:083][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.18-22.27.43:083][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.18-22.27.43:084][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.18-22.27.43:084][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.18-22.27.43:084][  0]LogWindows:    7. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.18-22.27.43:084][  0]LogWindows:    8. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.18-22.27.43:085][  0]LogWindows:    9. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.18-22.27.43:085][  0]LogWindows:    10. 'RDPDD Chained DD' (P:0 D:0)
+[2017.10.18-22.27.43:085][  0]LogWindows:    11. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.10.18-22.27.43:085][  0]LogWindows:    12. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.10.18-22.27.43:085][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:10 
+[2017.10.18-22.27.43:085][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.10.18-22.27.43:085][  0]LogD3D11RHI:   Driver Version: 385.28 (internal:22.21.13.8528, unified:385.28)
+[2017.10.18-22.27.43:085][  0]LogD3D11RHI:      Driver Date: 8-9-2017
+[2017.10.18-22.27.43:085][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.18-22.27.43:101][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.18-22.27.43:230][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.10.18-22.27.43:298][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Intermediate/Shaders/WorkingDirectory/8752/).
+[2017.10.18-22.27.43:299][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/christopher.reilly/AppData/Local/Temp/UnrealShaderWorkingDir/754318B2480301827A4B0090B9B90966/'.
+[2017.10.18-22.27.43:299][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.18-22.27.45:130][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.18-22.27.45:192][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.18-22.27.45:249][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.18-22.27.45:304][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.18-22.27.45:369][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.18-22.27.45:426][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.18-22.27.45:485][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.18-22.27.45:541][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.18-22.27.45:599][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.18-22.27.45:671][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.18-22.27.45:730][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.18-22.27.45:787][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.18-22.27.45:843][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.18-22.27.45:901][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.18-22.27.45:961][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.18-22.27.46:081][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.18-22.27.46:082][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.18-22.27.46:191][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.18-22.27.46:338][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.18-22.27.46:382][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.18-22.27.46:447][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.18-22.27.46:503][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.18-22.27.46:562][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.18-22.27.46:662][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.18-22.27.46:662][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.18-22.27.47:473][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.18-22.27.48:464][  0]LogDerivedDataCache: Loaded boot cache 0.99s 93MB C:/Users/christopher.reilly/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.18-22.27.48:464][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/christopher.reilly/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.18-22.27.48:464][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.18-22.27.48:464][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.18-22.27.48:464][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.18-22.27.48:464][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.18-22.27.48:516][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.18-22.27.48:527][  0]LogDerivedDataCache: Using Local data cache path C:/Users/christopher.reilly/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.18-22.27.48:540][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.18-22.27.48:573][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.18-22.27.48:638][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.18-22.27.48:639][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.18-22.27.56:903][  0]LogAssetRegistry: FAssetRegistry took 0.0404 seconds to start up
+[2017.10.18-22.27.58:534][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.18-22.27.58:589][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.18-22.28.00:087][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.18-22.28.00:212][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.18-22.28.00:226][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.18-22.28.00:234][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.18-22.28.00:234][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.18-22.28.00:234][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.18-22.28.02:930][  0]LogNetVersion: KnickKnackWackyStack , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3432637998)
+[2017.10.18-22.28.04:063][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.043862 seconds
+[2017.10.18-22.28.04:070][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.18-22.28.04:070][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.10.18-22.28.04:070][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.18-22.28.04:183][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.18-22.28.23:238][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.18-22.28.23:286][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.18-22.28.25:095][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.18-22.28.26:044][  0]SourceControl: Source control is disabled
+[2017.10.18-22.28.26:044][  0]SourceControl: Source control is disabled
+[2017.10.18-22.28.26:266][  0]SourceControl: Source control is disabled
+[2017.10.18-22.28.26:382][  0]SourceControl: Source control is disabled
+[2017.10.18-22.28.27:518][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.18-22.28.27:823][  0]LogOcInput: OculusInput pre-init called
+[2017.10.18-22.28.28:556][  0]LogEngine: Initializing Engine...
+[2017.10.18-22.28.31:628][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-354F154B
+[2017.10.18-22.28.32:561][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.18-22.28.32:562][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.001 s
+[2017.10.18-22.28.32:831][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.18-22.28.32:861][  0]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.18-22.28.32:879][  0]LogInit: FAudioDevice initialized.
+[2017.10.18-22.28.33:085][  0]LogDerivedDataCache: Saved boot cache 0.21s 93MB C:/Users/christopher.reilly/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.18-22.28.33:106][  0]LogInit: Texture streaming: Enabled
+[2017.10.18-22.28.33:284][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.18-22.28.33:284][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={A4222DF3-4E8B-C4BD-62E3-99A74D140F11}
+[2017.10.18-22.28.33:851][  0]LogInit: Transaction tracking system initialized
+[2017.10.18-22.28.34:762][  0]BlueprintLog: New page: Editor Load
+[2017.10.18-22.28.39:684][  0]LocalizationService: Localization service is disabled
+[2017.10.18-22.28.42:786][  0]LogConsoleResponse: Display: 
+[2017.10.18-22.28.48:194][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.18-22.28.48:194][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.18-22.28.48:194][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.18-22.28.54:856][  0]SourceControl: Source control is disabled
+[2017.10.18-22.28.54:998][  0]LogSlate: Took 0.029452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.18-22.29.04:489][  0]Cmd: MAP LOAD FILE="../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.18-22.29.04:563][  0]LightingResults: New page: Lighting Build
+[2017.10.18-22.29.04:700][  0]MapCheck: New page: Map Check
+[2017.10.18-22.29.04:700][  0]LightingResults: New page: Lighting Build
+[2017.10.18-22.29.06:791][  0]LogAIModule: Creating AISystem for world StartupMap
+[2017.10.18-22.29.06:938][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.18-22.29.07:027][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.18-22.29.07:081][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.025ms to complete.
+[2017.10.18-22.29.07:081][  0]LogFileHelpers: Loading map 'StartupMap' took 2.591
+[2017.10.18-22.29.07:654][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_20c4_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_25c4_0///####STATCAT_Advanced####
+[2017.10.18-22.29.07:654][  0]LogCollectionManager: Loaded 0 collections in 0.001837 seconds
+[2017.10.18-22.29.07:797][  0]LogFileCache: Scanning file cache for directory 'C:/Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/Collections/' took 0.01s
+[2017.10.18-22.29.07:797][  0]LogFileCache: Scanning file cache for directory 'C:/Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/Developers/christopherreilly/Collections/' took 0.01s
+[2017.10.18-22.29.07:797][  0]LogFileCache: Scanning file cache for directory 'C:/Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/Collections/' took 0.01s
+[2017.10.18-22.29.07:797][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.18-22.29.07:808][  0]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2386 classes and 500 folders.
+[2017.10.18-22.29.07:922][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.10.18-22.29.10:324][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.10.18-22.29.10:440][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.10.18-22.29.10:887][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.10.18-22.29.10:887][  0]LogLoad: (Engine Initialization) Total time: 97.05 seconds
+[2017.10.18-22.29.10:887][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.18-22.29.10:903][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.18-22.29.10:903][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.18-22.29.10:956][  0]LogSteamVRController: Controller role for device 3 is 2 (invalid=0, left=1, right=2).
+[2017.10.18-22.29.10:956][  0]LogSteamVRController: Warning: Controller device 3 is being assigned to its prefered role 'right'.
+[2017.10.18-22.29.10:956][  0]LogSteamVRController: Controller role for device 4 is 1 (invalid=0, left=1, right=2).
+[2017.10.18-22.29.10:956][  0]LogSteamVRController: Putting controller 4 on the left hand because there is already a controller for the right.
+[2017.10.18-22.29.11:014][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.18-22.29.11:052][  0]LogSlate: Took 0.036117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.18-22.29.11:098][  0]LogSlate: Took 0.040756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.18-22.29.11:854][  1]LogAssetRegistry: Asset discovery search completed in 74.9527 seconds
+[2017.10.18-22.29.11:856][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.10.18-22.29.11:856][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2017.10.18-22.29.11:897][  2]LogRenderer: Reallocating scene render targets to support 1032x496 Format 26 NumSamples 1 (Frame:1).
+[2017.10.18-22.29.15:927][371]LogSlate: Took 0.090078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.18-22.29.51:251][306]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.18-22.29.51:307][306]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0009 seconds. Added 1 classes and 0 folders.
+[2017.10.18-22.29.51:507][306]LogRenderer: Reallocating scene render targets to support 1076x904 Format 26 NumSamples 1 (Frame:1).
+[2017.10.18-22.30.30:701][ 40]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PinkPlastic, compiling. 
+[2017.10.18-22.30.31:230][ 40]TextureStreamingBuild: Display: Compiling optional shaders took 0.548 seconds.
+[2017.10.18-22.30.56:172][726]LogMaterial: Missing cached shader map for material BluePlastic, compiling. 
+[2017.10.18-22.30.56:298][726]LogMaterial: Missing cached shader map for material BluePlastic, compiling. 
+[2017.10.18-22.30.56:324][726]LogMaterial: Missing cached shader map for material BluePlastic, compiling. 
+[2017.10.18-22.30.56:368][726]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.10.18-22.30.56:393][726]LogSlate: Took 0.010575 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.18-22.30.56:679][727]LogSlate: Took 0.022780 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.18-22.30.57:798][770]MaterialEditorStats: Base pass shader: 129 instructions
+[2017.10.18-22.30.57:798][770]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.10.18-22.30.57:798][770]MaterialEditorStats: Texture samplers: 1/16
+[2017.10.18-22.31.02:792][133]LogMaterial: Missing cached shader map for material BluePlastic, compiling. 
+[2017.10.18-22.31.02:809][133]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.10.18-22.31.03:972][181]MaterialEditorStats: Base pass shader: 129 instructions
+[2017.10.18-22.31.03:972][181]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.10.18-22.31.03:972][181]MaterialEditorStats: Texture samplers: 1/16
+[2017.10.18-22.31.17:148][276]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BluePlastic1, compiling. 
+[2017.10.18-22.31.17:274][276]TextureStreamingBuild: Display: Compiling optional shaders took 0.130 seconds.
+[2017.10.18-22.31.17:295][276]LogSavePackage: Save=11.76ms
+[2017.10.18-22.31.17:296][276]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/BluePlastic1D83857864F6B490F6AA7DEB5100A2AE9.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Material/Colors/BluePlastic1.uasset'
+[2017.10.18-22.31.17:297][276]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Material/Colors/BluePlastic1.uasset
+[2017.10.18-22.31.28:928][670]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.18-22.31.52:908][ 26]LogSavePackage: Save=12.09ms
+[2017.10.18-22.31.52:908][ 26]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/BluePlastic234F9BF84E9A1A0A32C4A1B59298098C.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Material/Colors/BluePlastic.uasset'
+[2017.10.18-22.31.52:910][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Material/Colors/BluePlastic.uasset
+[2017.10.18-22.35.50:307][533]LogSavePackage: Save=12.07ms
+[2017.10.18-22.35.50:307][533]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/PinkPlastic93BC3924465D85EE51C4EEAC9D6BD7A3.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Material/Colors/PinkPlastic.uasset'
+[2017.10.18-22.35.50:308][533]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Material/Colors/PinkPlastic.uasset
+[2017.10.18-22.35.51:771][657]LogSavePackage: Save=1.77ms
+[2017.10.18-22.35.51:771][657]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/BluePlastic5013F7B64EDA046032A51A914C1E7451.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Material/Colors/BluePlastic.uasset'
+[2017.10.18-22.35.51:771][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Material/Colors/BluePlastic.uasset
+[2017.10.18-22.36.00:767][500]LoadErrors: Error: /Game/VirtualRealityBP/Assets/WoodenTrain : Failed import for Material /Game/VirtualRealityBP/Material/Colors/BluePlastic.BluePlastic Referenced by export StaticMesh /Game/VirtualRealityBP/Assets/WoodenTrain.WoodenTrain
+[2017.10.18-22.36.12:300][449]LogSavePackage: Save=11.51ms
+[2017.10.18-22.36.12:300][449]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/WoodenTrainDB5D11584F50AAEAF3A2899708B24962.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/WoodenTrain.uasset'
+[2017.10.18-22.36.12:302][449]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/WoodenTrain.uasset
+[2017.10.18-22.44.13:600][895]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.18-22.44.14:949][895]LogAIModule: Creating AISystem for world DemoLevel
+[2017.10.18-22.44.15:063][895]Cmd: MAP LOAD FILE="../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Maps/DemoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.18-22.44.15:063][895]LightingResults: New page: Lighting Build
+[2017.10.18-22.44.15:064][895]LoadErrors: New page: Loading map: DemoLevel.umap
+[2017.10.18-22.44.15:065][895]MapCheck: New page: Map Check
+[2017.10.18-22.44.15:065][895]LightingResults: New page: Lighting Build
+[2017.10.18-22.44.15:081][895]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.ToyBox_10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-22.44.15:094][895]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.18-22.44.15:196][895]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.18-22.44.15:253][895]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.013ms to complete.
+[2017.10.18-22.44.15:254][895]LogFileHelpers: Loading map 'DemoLevel' took 0.192
+[2017.10.18-22.44.18:003][185]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.18-22.44.18:099][185]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-22.44.18:100][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.18-22.44.18:126][185]PIE: New page: PIE session: DemoLevel (Oct 18, 2017, 8:44:18 AM)
+[2017.10.18-22.44.18:126][185]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel
+[2017.10.18-22.44.18:129][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003311s)
+[2017.10.18-22.44.18:130][185]LogAIModule: Creating AISystem for world DemoLevel
+[2017.10.18-22.44.18:130][185]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2017.10.18-22.44.18:130][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel to /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.004297s)
+[2017.10.18-22.44.18:148][185]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.18-22.44.18:155][185]LogInit: FAudioDevice initialized.
+[2017.10.18-22.44.18:198][185]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.18-22.44.18:198][185]LogLoad: Game class is 'GameModeBase'
+[2017.10.18-22.44.18:200][185]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.ToyBox_10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-22.44.18:202][185]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2017.10.18-15.44.18
+[2017.10.18-22.44.18:202][185]LogWorld: Bringing up level for play took: 0.002475
+[2017.10.18-22.44.18:290][185]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2017.10.18-22.44.18:291][185]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Brick_BP2ToyZoneGood_BP_C_0
+[2017.10.18-22.44.18:292][185]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Brick_BP2ToyZoneGood_BP_C_1
+[2017.10.18-22.44.18:292][185]LogBlueprintUserMessages: [ToyZoneGood_BP_C_2] Brick_BP2ToyZoneGood_BP_C_2
+[2017.10.18-22.44.18:292][185]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Brick_BP2ToyZoneGood_BP_C_3
+[2017.10.18-22.44.18:292][185]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-22.44.18:292][185]LogBlueprintUserMessages: [SteeringWheel_BP_2]  SteeringWheel to 
+[2017.10.18-22.44.18:293][185]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-22.44.18:295][185]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-22.44.18:296][185]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-22.44.18:296][185]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel 1.126
+[2017.10.18-22.44.18:296][185]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-22.44.18:353][186]LogRenderer: Reallocating scene render targets to support 1448x904 Format 26 NumSamples 1 (Frame:1).
+[2017.10.18-22.44.21:294][531]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-22.44.21:322][531]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-22.44.25:174][935]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-22.44.25:174][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.18-22.44.25:174][935]PIE: New page: PIE session: DemoLevel (Oct 18, 2017, 8:44:25 AM)
+[2017.10.18-22.44.25:174][935]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel
+[2017.10.18-22.44.25:177][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003268s)
+[2017.10.18-22.44.25:178][935]LogAIModule: Creating AISystem for world DemoLevel
+[2017.10.18-22.44.25:178][935]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2017.10.18-22.44.25:178][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel to /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.004250s)
+[2017.10.18-22.44.25:198][935]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.18-22.44.25:203][935]LogInit: FAudioDevice initialized.
+[2017.10.18-22.44.25:290][935]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.18-22.44.25:290][935]LogLoad: Game class is 'GameModeBase'
+[2017.10.18-22.44.25:292][935]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.ToyBox_10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-22.44.25:293][935]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2017.10.18-15.44.25
+[2017.10.18-22.44.25:293][935]LogWorld: Bringing up level for play took: 0.002366
+[2017.10.18-22.44.25:294][935]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Brick_BP2ToyZoneGood_BP_C_0
+[2017.10.18-22.44.25:295][935]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Brick_BP2ToyZoneGood_BP_C_1
+[2017.10.18-22.44.25:295][935]LogBlueprintUserMessages: [ToyZoneGood_BP_C_2] Brick_BP2ToyZoneGood_BP_C_2
+[2017.10.18-22.44.25:296][935]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Brick_BP2ToyZoneGood_BP_C_3
+[2017.10.18-22.44.25:296][935]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] ToyZoneGood_BP_C_2ToyZoneGood_BP_C_3
+[2017.10.18-22.44.25:296][935]LogBlueprintUserMessages: [ToyZoneGood_BP_C_2] ToyZoneGood_BP_C_3ToyZoneGood_BP_C_2
+[2017.10.18-22.44.25:296][935]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-22.44.25:296][935]LogBlueprintUserMessages: [SteeringWheel_BP_2]  SteeringWheel to 
+[2017.10.18-22.44.25:296][935]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-22.44.25:298][935]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-22.44.25:298][935]LogBlueprintUserMessages: [ToyZoneGood_BP_C_2] BP_MotionController_C_0ToyZoneGood_BP_C_2
+[2017.10.18-22.44.25:299][935]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-22.44.25:299][935]LogBlueprintUserMessages: [ToyZoneGood_BP_C_2] BP_MotionController_C_1ToyZoneGood_BP_C_2
+[2017.10.18-22.44.25:306][935]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel 0.135
+[2017.10.18-22.44.25:306][935]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-22.44.25:386][936]LogRenderer: Reallocating scene render targets to support 3024x1680 Format 26 NumSamples 1 (Frame:1).
+[2017.10.18-22.44.51:873][303]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-22.44.52:010][303]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-22.44.54:481][555]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2017.10.18-22.45.00:365][ 39]LogTemp: Repeating last play command: VR Preview
+[2017.10.18-22.45.00:382][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-22.45.00:382][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.18-22.45.00:383][ 39]PIE: New page: PIE session: DemoLevel (Oct 18, 2017, 8:45:00 AM)
+[2017.10.18-22.45.00:383][ 39]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel
+[2017.10.18-22.45.00:386][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003407s)
+[2017.10.18-22.45.00:387][ 39]LogAIModule: Creating AISystem for world DemoLevel
+[2017.10.18-22.45.00:387][ 39]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2017.10.18-22.45.00:387][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel to /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.004447s)
+[2017.10.18-22.45.00:443][ 39]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.18-22.45.00:449][ 39]LogInit: FAudioDevice initialized.
+[2017.10.18-22.45.00:536][ 39]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.18-22.45.00:536][ 39]LogLoad: Game class is 'GameModeBase'
+[2017.10.18-22.45.00:538][ 39]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.ToyBox_10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-22.45.00:539][ 39]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2017.10.18-15.45.00
+[2017.10.18-22.45.00:540][ 39]LogWorld: Bringing up level for play took: 0.002622
+[2017.10.18-22.45.00:541][ 39]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Brick_BP2ToyZoneGood_BP_C_0
+[2017.10.18-22.45.00:541][ 39]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Brick_BP2ToyZoneGood_BP_C_1
+[2017.10.18-22.45.00:541][ 39]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] ToyZoneGood_BP_C_0ToyZoneGood_BP_C_1
+[2017.10.18-22.45.00:541][ 39]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] ToyZoneGood_BP_C_1ToyZoneGood_BP_C_0
+[2017.10.18-22.45.00:542][ 39]LogBlueprintUserMessages: [ToyZoneGood_BP_C_2] Brick_BP2ToyZoneGood_BP_C_2
+[2017.10.18-22.45.00:542][ 39]LogBlueprintUserMessages: [ToyZoneGood_BP_C_2] ToyZoneGood_BP_C_0ToyZoneGood_BP_C_2
+[2017.10.18-22.45.00:542][ 39]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] ToyZoneGood_BP_C_2ToyZoneGood_BP_C_0
+[2017.10.18-22.45.00:542][ 39]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Brick_BP2ToyZoneGood_BP_C_3
+[2017.10.18-22.45.00:542][ 39]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] ToyZoneGood_BP_C_0ToyZoneGood_BP_C_3
+[2017.10.18-22.45.00:542][ 39]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] ToyZoneGood_BP_C_3ToyZoneGood_BP_C_0
+[2017.10.18-22.45.00:543][ 39]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-22.45.00:543][ 39]LogBlueprintUserMessages: [SteeringWheel_BP_2]  SteeringWheel to 
+[2017.10.18-22.45.00:543][ 39]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-22.45.00:544][ 39]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-22.45.00:544][ 39]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] BP_MotionController_C_0ToyZoneGood_BP_C_0
+[2017.10.18-22.45.00:546][ 39]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-22.45.00:546][ 39]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] BP_MotionController_C_1ToyZoneGood_BP_C_0
+[2017.10.18-22.45.00:554][ 39]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel -0.618
+[2017.10.18-22.45.00:555][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-22.45.00:753][ 49]LogBlueprintUserMessages: [ToyZoneGood_BP_C_2] Brick_BP3ToyZoneGood_BP_C_2
+[2017.10.18-22.45.38:977][465]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Brick_BP_2TableTriggerZone_BP_93
+[2017.10.18-22.46.10:636][299]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Etch_BP_2TableTriggerZone_BP_93
+[2017.10.18-22.46.16:122][790]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Etch_BP_2TableTriggerZone_BP_93
+[2017.10.18-22.46.16:758][847]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Etch_BP_2TableTriggerZone_BP_93
+[2017.10.18-22.46.17:384][903]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Etch_BP_2TableTriggerZone_BP_93
+[2017.10.18-22.46.19:517][ 94]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Etch_BP_2TableTriggerZone_BP_93
+[2017.10.18-22.46.24:309][522]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Etch_BP_2TableTriggerZone_BP_93
+[2017.10.18-22.46.24:868][572]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Etch_BP_2TableTriggerZone_BP_93
+[2017.10.18-22.46.25:125][595]LogBlueprintUserMessages: [ToyZoneGood_BP_C_2] Etch_BP_2ToyZoneGood_BP_C_2
+[2017.10.18-22.48.37:061][403]LogBlueprintUserMessages: [TableTriggerZone_BP_93] SteeringWheel_BP_2TableTriggerZone_BP_93
+[2017.10.18-22.48.37:407][434]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Brick_BP_2TableTriggerZone_BP_93
+[2017.10.18-22.48.37:698][460]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Dollo_BP2TableTriggerZone_BP_93
+[2017.10.18-22.48.39:997][666]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] SteeringWheel_BP_2ToyZoneGood_BP_C_3
+[2017.10.18-22.48.40:645][724]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] SteeringWheel_BP_2ToyZoneGood_BP_C_3
+[2017.10.18-22.48.41:640][813]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] SteeringWheel_BP_2ToyZoneGood_BP_C_3
+[2017.10.18-22.48.42:813][918]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] SteeringWheel_BP_2ToyZoneGood_BP_C_3
+[2017.10.18-22.48.45:874][192]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] SteeringWheel_BP_2ToyZoneGood_BP_C_3
+[2017.10.18-22.49.19:273][181]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-22.49.19:423][181]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-22.49.31:021][186]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2017.10.18-22.49.48:153][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2017.10.18-22.49.48:647][682]LogEditorViewport: Clicking on Actor (LMB): TableTriggerZone_BP_C (TableTriggerZone_BP)
+[2017.10.18-22.50.12:231][722]Cmd: TRANSACTION UNDO
+[2017.10.18-22.50.12:231][722]LogEditorTransaction: Undo Edit Y
+[2017.10.18-22.50.32:323][364]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 113 classes and 0 folders.
+[2017.10.18-22.59.01:866][424]LogSavePackage: Save=237.83ms
+[2017.10.18-22.59.01:866][424]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/DemoLevel_Auto1D6440BE94FE8B19CF330638B3B81EAAB.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/Autosaves/Game/VirtualRealityBP/Maps/DemoLevel_Auto1.umap'
+[2017.10.18-22.59.01:868][424]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/Autosaves/Game/VirtualRealityBP/Maps/DemoLevel_Auto1.umap
+[2017.10.18-22.59.01:870][424]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/DemoLevel' took 0.295
+[2017.10.18-22.59.01:870][424]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.295
+[2017.10.18-23.08.42:706][848]LogEditorViewport: Clicking on Actor (LMB): Etch_BP_C (Etch_BP)
+[2017.10.18-23.08.43:345][899]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.08.50:443][496]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.08.54:328][821]Cmd: DELETE
+[2017.10.18-23.08.54:328][821]Cmd: ACTOR DELETE
+[2017.10.18-23.08.54:335][821]LogEditorActor: Deleted Actor: Etch_BP_C
+[2017.10.18-23.08.54:355][821]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2017.10.18-23.08.55:012][898]LogEditorViewport: Clicking on Actor (LMB): Etch_BP_C (Etch_BP)
+[2017.10.18-23.09.08:187][ 38]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.09.09:519][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToyBox)
+[2017.10.18-23.09.21:904][155]LogEditorViewport: Clicking on Actor (LMB): Train_BP_C (Train_BP2)
+[2017.10.18-23.09.24:799][408]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP4)
+[2017.10.18-23.09.34:280][214]LogEditorViewport: Clicking on Actor (LMB): Train_BP_C (Train_BP2)
+[2017.10.18-23.09.34:976][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToyBox)
+[2017.10.18-23.09.35:413][298]LogEditorViewport: Clicking on Actor (LMB): Dollo_BP_C (Dollo_BP)
+[2017.10.18-23.09.45:186][149]LogEditorViewport: Clicking on Actor (LMB): Dollo_BP_C (Dollo_BP2)
+[2017.10.18-23.09.57:050][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.10.18-23.09.57:842][230]LogEditorViewport: Clicking on Actor (LMB): SteeringWheel_BP_C (SteeringWheel_BP)
+[2017.10.18-23.10.05:946][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.10.18-23.10.07:507][ 53]LogEditorViewport: Clicking on Actor (LMB): TableTriggerZone_BP_C (TableTriggerZone_BP)
+[2017.10.18-23.10.08:580][141]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP)
+[2017.10.18-23.10.20:228][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToyBox)
+[2017.10.18-23.10.21:093][204]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.10.23:864][453]LogEditorViewport: Clicking on Actor (LMB): Etch_BP_C (Etch_BP)
+[2017.10.18-23.10.49:607][680]Cmd: TRANSACTION UNDO
+[2017.10.18-23.10.49:607][680]LogEditorTransaction: Undo Move Actors
+[2017.10.18-23.11.05:894][ 41]LogEditorViewport: Clicking on Actor (LMB): Train_BP_C (Train_BP2)
+[2017.10.18-23.11.11:855][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToyBox)
+[2017.10.18-23.11.12:642][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToyBox)
+[2017.10.18-23.11.13:461][688]LogEditorViewport: Clicking on Actor (LMB): SteeringWheel_BP_C (SteeringWheel_BP)
+[2017.10.18-23.11.59:547][639]LogSavePackage: Save=237.88ms
+[2017.10.18-23.11.59:547][639]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/DemoLevel_Auto263EAD09F4704007A631F39922DB1F27F.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/Autosaves/Game/VirtualRealityBP/Maps/DemoLevel_Auto2.umap'
+[2017.10.18-23.11.59:548][639]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/Autosaves/Game/VirtualRealityBP/Maps/DemoLevel_Auto2.umap
+[2017.10.18-23.11.59:550][639]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/DemoLevel' took 0.289
+[2017.10.18-23.11.59:550][639]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.289
+[2017.10.18-23.12.16:241][ 68]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.12.49:680][983]LogEditorViewport: Clicking on Actor (LMB): Etch_BP_C (Etch_BP)
+[2017.10.18-23.12.50:446][ 43]LogEditorViewport: Clicking on Actor (LMB): Etch_BP_C (Etch_BP2)
+[2017.10.18-23.13.04:920][298]LogEditorViewport: Clicking on Actor (LMB): Etch_BP_C (Etch_BP2)
+[2017.10.18-23.13.07:705][539]LogEditorViewport: Clicking on Actor (LMB): Etch_BP_C (Etch_BP4)
+[2017.10.18-23.13.10:346][763]LogEditorViewport: Clicking on Actor (LMB): Etch_BP_C (Etch_BP3)
+[2017.10.18-23.13.13:703][ 49]LogEditorViewport: Clicking on Actor (LMB): Etch_BP_C (Etch_BP4)
+[2017.10.18-23.13.16:301][271]LogEditorViewport: Clicking on Actor (LMB): Etch_BP_C (Etch_BP5)
+[2017.10.18-23.13.35:931][952]LogEditorViewport: Clicking on Actor (LMB): Etch_BP_C (Etch_BP2)
+[2017.10.18-23.13.36:867][ 27]LogEditorViewport: Clicking on Actor (LMB): SteeringWheel_BP_C (SteeringWheel_BP)
+[2017.10.18-23.13.43:225][566]LogEditorViewport: Clicking on Actor (LMB): Etch_BP_C (Etch_BP5)
+[2017.10.18-23.14.07:166][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToyBox)
+[2017.10.18-23.14.07:649][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToyBox)
+[2017.10.18-23.14.08:354][718]LogEditorViewport: Clicking on Actor (LMB): SteeringWheel_BP_C (SteeringWheel_BP)
+[2017.10.18-23.14.43:203][727]LogEditorViewport: Clicking on Actor (LMB): SteeringWheel_BP_C (SteeringWheel_BP3)
+[2017.10.18-23.15.00:934][275]LogEditorViewport: Clicking on Actor (LMB): SteeringWheel_BP_C (SteeringWheel_BP)
+[2017.10.18-23.15.07:500][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToyBox)
+[2017.10.18-23.15.08:450][898]LogEditorViewport: Clicking on Actor (LMB): SteeringWheel_BP_C (SteeringWheel_BP4)
+[2017.10.18-23.15.12:970][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToyBox)
+[2017.10.18-23.15.16:804][585]LogEditorViewport: Clicking on Actor (LMB): SteeringWheel_BP_C (SteeringWheel_BP4)
+[2017.10.18-23.15.20:183][861]Cmd: TRANSACTION UNDO
+[2017.10.18-23.15.20:183][861]LogEditorTransaction: Undo Move Actors
+[2017.10.18-23.15.33:762][  6]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP)
+[2017.10.18-23.15.34:259][ 47]LogEditorViewport: Clicking on Actor (LMB): SteeringWheel_BP_C (SteeringWheel_BP5)
+[2017.10.18-23.15.42:350][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToyBox)
+[2017.10.18-23.15.44:733][926]LogEditorViewport: Clicking on Actor (LMB): SteeringWheel_BP_C (SteeringWheel_BP6)
+[2017.10.18-23.15.47:308][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.10.18-23.15.51:077][477]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP)
+[2017.10.18-23.16.02:018][396]Cmd: TRANSACTION UNDO
+[2017.10.18-23.16.02:018][396]LogEditorTransaction: Undo Move Actors
+[2017.10.18-23.16.11:814][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToyBox)
+[2017.10.18-23.16.16:095][569]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP4)
+[2017.10.18-23.16.17:652][703]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP)
+[2017.10.18-23.16.35:952][151]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP6)
+[2017.10.18-23.16.46:512][819]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP5)
+[2017.10.18-23.16.55:634][483]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP4)
+[2017.10.18-23.17.03:774][163]Cmd: TRANSACTION UNDO
+[2017.10.18-23.17.03:774][163]LogEditorTransaction: Undo Move Actors
+[2017.10.18-23.17.12:416][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToyBox)
+[2017.10.18-23.17.13:017][936]LogEditorViewport: Clicking on Actor (LMB): Train_BP_C (Train_BP2)
+[2017.10.18-23.17.20:644][609]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.17.34:877][872]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.17.42:497][528]LogEditorViewport: Clicking on Actor (LMB): Dollo_BP_C (Dollo_BP2)
+[2017.10.18-23.18.03:485][375]LogEditorViewport: Clicking on Actor (LMB): Dollo_BP_C (Dollo_BP)
+[2017.10.18-23.18.06:606][653]Cmd: DELETE
+[2017.10.18-23.18.06:606][653]Cmd: ACTOR DELETE
+[2017.10.18-23.18.06:606][653]LogEditorActor: Deleted Actor: Dollo_BP_C
+[2017.10.18-23.18.06:633][653]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2017.10.18-23.18.07:049][695]LogEditorViewport: Clicking on Actor (LMB): Dollo_BP_C (Dollo_BP2)
+[2017.10.18-23.18.09:926][938]Cmd: TRANSACTION UNDO
+[2017.10.18-23.18.09:926][938]LogEditorTransaction: Undo Move Actors
+[2017.10.18-23.18.10:644][978]Cmd: EDIT COPY
+[2017.10.18-23.18.18:049][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.10.18-23.18.22:263][992]LogEditorViewport: Clicking on Actor (LMB): Train_BP_C (Train_BP2)
+[2017.10.18-23.18.34:414][ 53]Cmd: EDIT COPY
+[2017.10.18-23.18.34:644][ 72]Cmd: EDIT PASTE
+[2017.10.18-23.18.46:712][121]Cmd: TRANSACTION UNDO
+[2017.10.18-23.18.46:712][121]LogEditorTransaction: Undo Move Actors
+[2017.10.18-23.18.50:407][407]LogEditorViewport: Clicking on Actor (LMB): Train_BP_C (Train_BP3)
+[2017.10.18-23.18.57:532][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToyBox)
+[2017.10.18-23.19.02:017][404]LogEditorViewport: Clicking on Actor (LMB): Dollo_BP_C (Dollo_BP2)
+[2017.10.18-23.19.15:071][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.10.18-23.19.18:541][773]LogEditorViewport: Clicking on Actor (LMB): Train_BP_C (Train_BP2)
+[2017.10.18-23.19.30:496][807]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.20.00:894][454]LogEditorViewport: Clicking on Actor (LMB): Etch_BP_C (Etch_BP4)
+[2017.10.18-23.20.01:464][494]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP4)
+[2017.10.18-23.20.03:348][646]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.20.09:545][180]Cmd: DELETE
+[2017.10.18-23.20.09:545][180]Cmd: ACTOR DELETE
+[2017.10.18-23.20.09:546][180]LogEditorActor: Deleted Actor: Brick_BP_C
+[2017.10.18-23.20.09:568][180]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2017.10.18-23.20.10:184][247]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP7)
+[2017.10.18-23.20.34:613][206]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.20.49:405][451]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP7)
+[2017.10.18-23.20.53:263][769]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP6)
+[2017.10.18-23.21.14:269][401]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.21.44:829][937]Cmd: TRANSACTION UNDO
+[2017.10.18-23.21.44:829][937]LogEditorTransaction: Undo Move Actors
+[2017.10.18-23.21.47:004][ 93]LogEditorViewport: Clicking on Actor (LMB): SteeringWheel_BP_C (SteeringWheel_BP)
+[2017.10.18-23.21.47:506][127]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP7)
+[2017.10.18-23.21.50:450][369]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.21.58:242][ 18]Cmd: TRANSACTION UNDO
+[2017.10.18-23.21.58:242][ 18]LogEditorTransaction: Undo Move Actors
+[2017.10.18-23.21.59:176][ 77]Cmd: DELETE
+[2017.10.18-23.21.59:176][ 77]Cmd: ACTOR DELETE
+[2017.10.18-23.21.59:177][ 77]LogEditorActor: Deleted Actor: Brick_BP_C
+[2017.10.18-23.21.59:197][ 77]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2017.10.18-23.21.59:795][135]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP7)
+[2017.10.18-23.22.03:727][466]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.22.07:669][800]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP6)
+[2017.10.18-23.22.07:880][812]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.22.10:198][  7]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP5)
+[2017.10.18-23.22.10:454][ 24]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.22.11:435][117]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP)
+[2017.10.18-23.22.11:825][143]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.22.16:113][492]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP5)
+[2017.10.18-23.22.20:221][846]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP6)
+[2017.10.18-23.22.20:754][882]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.22.22:643][ 44]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.22.24:456][194]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.22.29:111][576]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP7)
+[2017.10.18-23.22.29:850][634]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP7)
+[2017.10.18-23.22.30:194][663]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.22.32:575][861]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.22.52:452][384]LogEditorViewport: Clicking on Actor (LMB): SteeringWheel_BP_C (SteeringWheel_BP4)
+[2017.10.18-23.22.56:977][760]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP8)
+[2017.10.18-23.22.58:551][887]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP11)
+[2017.10.18-23.22.59:027][920]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.23.10:566][763]LogEditorViewport: Clicking on Actor (LMB): SteeringWheel_BP_C (SteeringWheel_BP6)
+[2017.10.18-23.23.17:952][372]LogTemp: Repeating last play command: VR Preview
+[2017.10.18-23.23.17:970][372]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.23.17:970][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.18-23.23.17:970][372]PIE: New page: PIE session: DemoLevel (Oct 18, 2017, 9:23:17 AM)
+[2017.10.18-23.23.17:970][372]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel
+[2017.10.18-23.23.17:975][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004908s)
+[2017.10.18-23.23.17:976][372]LogAIModule: Creating AISystem for world DemoLevel
+[2017.10.18-23.23.17:976][372]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2017.10.18-23.23.17:976][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel to /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.006051s)
+[2017.10.18-23.23.18:003][372]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.18-23.23.18:010][372]LogInit: FAudioDevice initialized.
+[2017.10.18-23.23.18:111][372]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.18-23.23.18:111][372]LogLoad: Game class is 'GameModeBase'
+[2017.10.18-23.23.18:113][372]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.ToyBox_10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.23.18:115][372]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2017.10.18-16.23.18
+[2017.10.18-23.23.18:116][372]LogWorld: Bringing up level for play took: 0.004128
+[2017.10.18-23.23.18:117][372]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Brick_BP2ToyZoneGood_BP_C_0
+[2017.10.18-23.23.18:118][372]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Brick_BP2ToyZoneGood_BP_C_1
+[2017.10.18-23.23.18:118][372]LogBlueprintUserMessages: [ToyZoneGood_BP_C_2] Brick_BP2ToyZoneGood_BP_C_2
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Brick_BP2ToyZoneGood_BP_C_3
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [SteeringWheel_BP_2]  SteeringWheel to 
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [SteeringWheel_BP2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [SteeringWheel_BP2]  SteeringWheel to 
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [SteeringWheel_BP2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [SteeringWheel_BP3] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [SteeringWheel_BP3]  SteeringWheel to 
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [SteeringWheel_BP3] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [SteeringWheel_BP4] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [SteeringWheel_BP4]  SteeringWheel to 
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [SteeringWheel_BP4] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [SteeringWheel_BP5] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [SteeringWheel_BP5]  SteeringWheel to 
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [SteeringWheel_BP5] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [SteeringWheel_BP6] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [SteeringWheel_BP6]  SteeringWheel to 
+[2017.10.18-23.23.18:119][372]LogBlueprintUserMessages: [SteeringWheel_BP6] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.23.18:121][372]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.23.18:123][372]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.23.18:134][372]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel 0.846
+[2017.10.18-23.23.18:135][372]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.23.25:957][ 60]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.23.26:046][ 68]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.23.29:453][373]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.23.29:809][405]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.23.30:636][479]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.23.51:792][373]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.23.51:971][389]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.23.55:848][736]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.23.56:012][736]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.23.58:705][955]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2017.10.18-23.24.05:130][446]LogTemp: Repeating last play command: VR Preview
+[2017.10.18-23.24.05:148][446]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.24.05:148][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.18-23.24.05:148][446]PIE: New page: PIE session: DemoLevel (Oct 18, 2017, 9:24:05 AM)
+[2017.10.18-23.24.05:148][446]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel
+[2017.10.18-23.24.05:153][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004736s)
+[2017.10.18-23.24.05:154][446]LogAIModule: Creating AISystem for world DemoLevel
+[2017.10.18-23.24.05:154][446]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2017.10.18-23.24.05:154][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel to /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.005764s)
+[2017.10.18-23.24.05:207][446]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.18-23.24.05:214][446]LogInit: FAudioDevice initialized.
+[2017.10.18-23.24.05:307][446]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.18-23.24.05:307][446]LogLoad: Game class is 'GameModeBase'
+[2017.10.18-23.24.05:309][446]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.ToyBox_10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.24.05:311][446]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2017.10.18-16.24.05
+[2017.10.18-23.24.05:312][446]LogWorld: Bringing up level for play took: 0.003657
+[2017.10.18-23.24.05:313][446]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Brick_BP2ToyZoneGood_BP_C_0
+[2017.10.18-23.24.05:313][446]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Brick_BP2ToyZoneGood_BP_C_1
+[2017.10.18-23.24.05:314][446]LogBlueprintUserMessages: [ToyZoneGood_BP_C_2] Brick_BP2ToyZoneGood_BP_C_2
+[2017.10.18-23.24.05:314][446]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Brick_BP2ToyZoneGood_BP_C_3
+[2017.10.18-23.24.05:314][446]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.24.05:314][446]LogBlueprintUserMessages: [SteeringWheel_BP_2]  SteeringWheel to 
+[2017.10.18-23.24.05:314][446]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.24.05:314][446]LogBlueprintUserMessages: [SteeringWheel_BP2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.24.05:314][446]LogBlueprintUserMessages: [SteeringWheel_BP2]  SteeringWheel to 
+[2017.10.18-23.24.05:314][446]LogBlueprintUserMessages: [SteeringWheel_BP2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.24.05:314][446]LogBlueprintUserMessages: [SteeringWheel_BP3] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.24.05:314][446]LogBlueprintUserMessages: [SteeringWheel_BP3]  SteeringWheel to 
+[2017.10.18-23.24.05:314][446]LogBlueprintUserMessages: [SteeringWheel_BP3] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.24.05:315][446]LogBlueprintUserMessages: [SteeringWheel_BP4] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.24.05:315][446]LogBlueprintUserMessages: [SteeringWheel_BP4]  SteeringWheel to 
+[2017.10.18-23.24.05:315][446]LogBlueprintUserMessages: [SteeringWheel_BP4] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.24.05:315][446]LogBlueprintUserMessages: [SteeringWheel_BP5] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.24.05:315][446]LogBlueprintUserMessages: [SteeringWheel_BP5]  SteeringWheel to 
+[2017.10.18-23.24.05:315][446]LogBlueprintUserMessages: [SteeringWheel_BP5] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.24.05:315][446]LogBlueprintUserMessages: [SteeringWheel_BP6] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.24.05:315][446]LogBlueprintUserMessages: [SteeringWheel_BP6]  SteeringWheel to 
+[2017.10.18-23.24.05:315][446]LogBlueprintUserMessages: [SteeringWheel_BP6] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.24.05:316][446]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.24.05:318][446]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.24.05:327][446]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel 0.037
+[2017.10.18-23.24.05:328][446]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.24.06:680][557]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.24.07:004][586]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.24.18:335][600]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Etch_BP5TableTriggerZone_BP_93
+[2017.10.18-23.24.19:675][720]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.24.20:926][832]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP5ToyZoneGood_BP_C_3
+[2017.10.18-23.24.23:306][ 45]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP5ToyZoneGood_BP_C_3
+[2017.10.18-23.24.23:585][ 70]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP5ToyZoneGood_BP_C_3
+[2017.10.18-23.24.23:753][ 85]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP5ToyZoneGood_BP_C_3
+[2017.10.18-23.24.24:523][154]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP5ToyZoneGood_BP_C_3
+[2017.10.18-23.24.25:594][250]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP5ToyZoneGood_BP_C_3
+[2017.10.18-23.24.26:468][328]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP5ToyZoneGood_BP_C_3
+[2017.10.18-23.24.28:008][466]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.24.31:191][751]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Etch_BP5ToyZoneGood_BP_C_1
+[2017.10.18-23.24.31:582][786]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP5ToyZoneGood_BP_C_3
+[2017.10.18-23.24.36:308][209]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP5ToyZoneGood_BP_C_3
+[2017.10.18-23.24.36:476][224]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Etch_BP5ToyZoneGood_BP_C_0
+[2017.10.18-23.24.37:123][282]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.24.37:637][328]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.24.42:719][783]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.24.44:932][981]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP5ToyZoneGood_BP_C_3
+[2017.10.18-23.24.46:854][153]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.24.48:081][263]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.24.50:031][438]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.25.07:462][998]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Brick_BP11_10TableTriggerZone_BP_93
+[2017.10.18-23.25.07:977][ 44]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.25.08:166][ 61]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.25.16:389][797]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Brick_BP11_10ToyZoneGood_BP_C_3
+[2017.10.18-23.25.16:534][810]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Brick_BP11_10ToyZoneGood_BP_C_0
+[2017.10.18-23.25.16:601][816]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Brick_BP11_10ToyZoneGood_BP_C_0
+[2017.10.18-23.25.29:792][996]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Etch_BP4TableTriggerZone_BP_93
+[2017.10.18-23.25.30:306][ 42]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.25.36:907][633]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.25.36:963][638]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.25.37:946][726]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.25.37:979][729]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.25.38:393][766]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.25.38:527][778]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.25.39:969][907]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.25.40:133][907]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.25.43:895][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToyBox)
+[2017.10.18-23.25.52:688][831]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_13:PersistentLevel.ToyBox_BP_C_1.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.25.57:523][108]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_15:PersistentLevel.ToyBox_BP_C_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.25.59:588][223]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_15:PersistentLevel.ToyBox_BP_C_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.26.19:490][301]LogSavePackage: Save=12.85ms
+[2017.10.18-23.26.19:490][301]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/ToyBox5220CE1F41E9168861BC2A82A38EC71A.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/ToyBox.uasset'
+[2017.10.18-23.26.19:491][301]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/ToyBox.uasset
+[2017.10.18-23.26.20:984][393]LogTemp: Repeating last play command: VR Preview
+[2017.10.18-23.26.21:007][393]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.26.21:007][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.18-23.26.21:007][393]PIE: New page: PIE session: DemoLevel (Oct 18, 2017, 9:26:21 AM)
+[2017.10.18-23.26.21:007][393]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel
+[2017.10.18-23.26.21:013][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006322s)
+[2017.10.18-23.26.21:014][393]LogAIModule: Creating AISystem for world DemoLevel
+[2017.10.18-23.26.21:014][393]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2017.10.18-23.26.21:015][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel to /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.007794s)
+[2017.10.18-23.26.21:047][393]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.18-23.26.21:053][393]LogInit: FAudioDevice initialized.
+[2017.10.18-23.26.21:146][393]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.18-23.26.21:146][393]LogLoad: Game class is 'GameModeBase'
+[2017.10.18-23.26.21:148][393]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.ToyBox_10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.26.21:151][393]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2017.10.18-16.26.21
+[2017.10.18-23.26.21:151][393]LogWorld: Bringing up level for play took: 0.004472
+[2017.10.18-23.26.21:153][393]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Brick_BP2ToyZoneGood_BP_C_0
+[2017.10.18-23.26.21:153][393]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Brick_BP2ToyZoneGood_BP_C_1
+[2017.10.18-23.26.21:154][393]LogBlueprintUserMessages: [ToyZoneGood_BP_C_2] Brick_BP2ToyZoneGood_BP_C_2
+[2017.10.18-23.26.21:154][393]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Brick_BP2ToyZoneGood_BP_C_3
+[2017.10.18-23.26.21:154][393]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.26.21:154][393]LogBlueprintUserMessages: [SteeringWheel_BP_2]  SteeringWheel to 
+[2017.10.18-23.26.21:154][393]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.26.21:155][393]LogBlueprintUserMessages: [SteeringWheel_BP2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.26.21:155][393]LogBlueprintUserMessages: [SteeringWheel_BP2]  SteeringWheel to 
+[2017.10.18-23.26.21:155][393]LogBlueprintUserMessages: [SteeringWheel_BP2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.26.21:155][393]LogBlueprintUserMessages: [SteeringWheel_BP3] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.26.21:155][393]LogBlueprintUserMessages: [SteeringWheel_BP3]  SteeringWheel to 
+[2017.10.18-23.26.21:155][393]LogBlueprintUserMessages: [SteeringWheel_BP3] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.26.21:155][393]LogBlueprintUserMessages: [SteeringWheel_BP4] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.26.21:155][393]LogBlueprintUserMessages: [SteeringWheel_BP4]  SteeringWheel to 
+[2017.10.18-23.26.21:155][393]LogBlueprintUserMessages: [SteeringWheel_BP4] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.26.21:155][393]LogBlueprintUserMessages: [SteeringWheel_BP5] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.26.21:155][393]LogBlueprintUserMessages: [SteeringWheel_BP5]  SteeringWheel to 
+[2017.10.18-23.26.21:155][393]LogBlueprintUserMessages: [SteeringWheel_BP5] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.26.21:155][393]LogBlueprintUserMessages: [SteeringWheel_BP6] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.26.21:155][393]LogBlueprintUserMessages: [SteeringWheel_BP6]  SteeringWheel to 
+[2017.10.18-23.26.21:155][393]LogBlueprintUserMessages: [SteeringWheel_BP6] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.26.21:157][393]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.26.21:159][393]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.26.21:169][393]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel -0.128
+[2017.10.18-23.26.21:170][393]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.26.28:001][993]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.26.28:090][  1]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.26.28:941][ 77]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.26.47:618][749]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Etch_BP5TableTriggerZone_BP_93
+[2017.10.18-23.26.49:103][882]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.26.50:354][994]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Etch_BP5TableTriggerZone_BP_93
+[2017.10.18-23.26.50:421][  0]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.26.53:615][286]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.26.55:022][412]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.26.55:022][412]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Etch_BP5TableTriggerZone_BP_93
+[2017.10.18-23.26.57:303][616]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.27.03:468][168]LogBlueprintUserMessages: [TableTriggerZone_BP_93] SteeringWheel_BP3TableTriggerZone_BP_93
+[2017.10.18-23.27.04:194][233]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.27.04:608][270]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.27.04:988][304]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Etch_BP5ToyZoneGood_BP_C_0
+[2017.10.18-23.27.05:535][353]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Etch_BP5ToyZoneGood_BP_C_0
+[2017.10.18-23.27.16:037][293]LogBlueprintUserMessages: [TableTriggerZone_BP_93] SteeringWheel_BP3TableTriggerZone_BP_93
+[2017.10.18-23.27.16:672][350]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.27.17:163][394]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.27.17:688][441]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Etch_BP5ToyZoneGood_BP_C_0
+[2017.10.18-23.27.26:324][214]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Etch_BP5ToyZoneGood_BP_C_0
+[2017.10.18-23.27.27:418][312]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Etch_BP5ToyZoneGood_BP_C_0
+[2017.10.18-23.27.28:581][416]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Etch_BP5ToyZoneGood_BP_C_0
+[2017.10.18-23.27.29:507][499]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Etch_BP5ToyZoneGood_BP_C_0
+[2017.10.18-23.27.31:462][674]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Etch_BP5ToyZoneGood_BP_C_0
+[2017.10.18-23.27.32:231][743]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Etch_BP5ToyZoneGood_BP_C_0
+[2017.10.18-23.27.37:930][253]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Etch_BP5ToyZoneGood_BP_C_0
+[2017.10.18-23.27.38:846][335]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Etch_BP5ToyZoneGood_BP_C_0
+[2017.10.18-23.27.40:946][523]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Etch_BP5ToyZoneGood_BP_C_0
+[2017.10.18-23.27.41:827][602]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Etch_BP5ToyZoneGood_BP_C_0
+[2017.10.18-23.27.45:245][908]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.27.48:352][186]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Etch_BP5ToyZoneGood_BP_C_0
+[2017.10.18-23.28.04:145][600]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.28.04:329][600]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.28.45:370][921]LogSavePackage: Save=12.78ms
+[2017.10.18-23.28.45:370][921]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/ToyBox4D01B4384C74E0038120E69C252A8F78.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/ToyBox.uasset'
+[2017.10.18-23.28.45:386][921]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/ToyBox.uasset
+[2017.10.18-23.29.43:841][100]LogSavePackage: Save=4.93ms
+[2017.10.18-23.29.43:841][100]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/ToyBoxBD673C4148E45F0049E1E890457B145B.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/ToyBox.uasset'
+[2017.10.18-23.29.43:842][100]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/ToyBox.uasset
+[2017.10.18-23.29.45:837][203]LogTemp: Repeating last play command: VR Preview
+[2017.10.18-23.29.45:856][203]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.29.45:857][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.18-23.29.45:857][203]PIE: New page: PIE session: DemoLevel (Oct 18, 2017, 9:29:45 AM)
+[2017.10.18-23.29.45:857][203]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel
+[2017.10.18-23.29.45:862][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004713s)
+[2017.10.18-23.29.45:862][203]LogAIModule: Creating AISystem for world DemoLevel
+[2017.10.18-23.29.45:863][203]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2017.10.18-23.29.45:863][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel to /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.005846s)
+[2017.10.18-23.29.45:895][203]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.18-23.29.45:902][203]LogInit: FAudioDevice initialized.
+[2017.10.18-23.29.45:998][203]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.18-23.29.45:998][203]LogLoad: Game class is 'GameModeBase'
+[2017.10.18-23.29.46:000][203]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.ToyBox_10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.29.46:002][203]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2017.10.18-16.29.46
+[2017.10.18-23.29.46:003][203]LogWorld: Bringing up level for play took: 0.003778
+[2017.10.18-23.29.46:004][203]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Brick_BP2ToyZoneGood_BP_C_0
+[2017.10.18-23.29.46:004][203]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Brick_BP2ToyZoneGood_BP_C_1
+[2017.10.18-23.29.46:005][203]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Brick_BP3ToyZoneGood_BP_C_1
+[2017.10.18-23.29.46:005][203]LogBlueprintUserMessages: [ToyZoneGood_BP_C_2] Brick_BP2ToyZoneGood_BP_C_2
+[2017.10.18-23.29.46:005][203]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Brick_BP2ToyZoneGood_BP_C_3
+[2017.10.18-23.29.46:006][203]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.29.46:006][203]LogBlueprintUserMessages: [SteeringWheel_BP_2]  SteeringWheel to 
+[2017.10.18-23.29.46:006][203]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.29.46:006][203]LogBlueprintUserMessages: [SteeringWheel_BP2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.29.46:006][203]LogBlueprintUserMessages: [SteeringWheel_BP2]  SteeringWheel to 
+[2017.10.18-23.29.46:006][203]LogBlueprintUserMessages: [SteeringWheel_BP2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.29.46:006][203]LogBlueprintUserMessages: [SteeringWheel_BP3] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.29.46:006][203]LogBlueprintUserMessages: [SteeringWheel_BP3]  SteeringWheel to 
+[2017.10.18-23.29.46:006][203]LogBlueprintUserMessages: [SteeringWheel_BP3] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.29.46:006][203]LogBlueprintUserMessages: [SteeringWheel_BP4] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.29.46:006][203]LogBlueprintUserMessages: [SteeringWheel_BP4]  SteeringWheel to 
+[2017.10.18-23.29.46:006][203]LogBlueprintUserMessages: [SteeringWheel_BP4] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.29.46:006][203]LogBlueprintUserMessages: [SteeringWheel_BP5] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.29.46:006][203]LogBlueprintUserMessages: [SteeringWheel_BP5]  SteeringWheel to 
+[2017.10.18-23.29.46:006][203]LogBlueprintUserMessages: [SteeringWheel_BP5] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.29.46:006][203]LogBlueprintUserMessages: [SteeringWheel_BP6] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.29.46:006][203]LogBlueprintUserMessages: [SteeringWheel_BP6]  SteeringWheel to 
+[2017.10.18-23.29.46:006][203]LogBlueprintUserMessages: [SteeringWheel_BP6] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.29.46:009][203]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.29.46:010][203]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.29.46:022][203]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel 0.714
+[2017.10.18-23.29.46:022][203]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.29.54:142][920]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.30.27:598][915]LogBlueprintUserMessages: [TableTriggerZone_BP_93] SteeringWheel_BP3TableTriggerZone_BP_93
+[2017.10.18-23.30.27:823][935]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] SteeringWheel_BP3ToyZoneGood_BP_C_3
+[2017.10.18-23.30.28:180][967]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] SteeringWheel_BP3ToyZoneGood_BP_C_1
+[2017.10.18-23.30.36:903][748]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.30.40:188][ 42]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.30.44:834][458]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] SteeringWheel_BP3ToyZoneGood_BP_C_3
+[2017.10.18-23.30.48:755][809]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.30.50:453][961]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] BP_MotionController_C_0ToyZoneGood_BP_C_1
+[2017.10.18-23.30.50:844][996]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Brick_BP3ToyZoneGood_BP_C_1
+[2017.10.18-23.30.53:100][198]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Brick_BP3ToyZoneGood_BP_C_1
+[2017.10.18-23.30.53:223][209]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Brick_BP3ToyZoneGood_BP_C_1
+[2017.10.18-23.30.54:295][305]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.30.55:557][418]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Brick_BP3ToyZoneGood_BP_C_1
+[2017.10.18-23.31.03:266][108]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.31.04:539][222]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.31.05:489][307]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] BP_MotionController_C_0ToyZoneGood_BP_C_3
+[2017.10.18-23.31.05:533][311]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Brick_BP3ToyZoneGood_BP_C_3
+[2017.10.18-23.31.06:350][384]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.31.06:639][410]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.31.10:403][747]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Brick_BP8TableTriggerZone_BP_93
+[2017.10.18-23.31.10:549][760]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.31.12:001][890]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.31.17:598][391]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Etch_BP5TableTriggerZone_BP_93
+[2017.10.18-23.31.18:413][464]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.31.19:072][523]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.31.21:652][754]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Brick_BP3TableTriggerZone_BP_93
+[2017.10.18-23.31.21:798][767]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.31.22:769][854]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.31.28:589][375]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.31.37:432][166]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.31.41:200][503]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.31.52:191][486]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.31.55:688][799]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.32.07:240][833]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Brick_BP2ToyZoneGood_BP_C_1
+[2017.10.18-23.32.09:585][ 43]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.32.22:822][228]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Brick_BP8ToyZoneGood_BP_C_3
+[2017.10.18-23.32.22:889][234]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] BP_MotionController_C_0ToyZoneGood_BP_C_3
+[2017.10.18-23.32.24:910][415]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Brick_BP8TableTriggerZone_BP_93
+[2017.10.18-23.32.24:922][416]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Brick_BP8ToyZoneGood_BP_C_3
+[2017.10.18-23.32.24:966][420]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] BP_MotionController_C_0ToyZoneGood_BP_C_3
+[2017.10.18-23.32.24:966][420]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.32.27:648][660]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] BP_MotionController_C_0ToyZoneGood_BP_C_3
+[2017.10.18-23.32.27:704][665]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Brick_BP8ToyZoneGood_BP_C_3
+[2017.10.18-23.32.28:285][717]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] BP_MotionController_C_0ToyZoneGood_BP_C_3
+[2017.10.18-23.32.29:446][821]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] BP_MotionController_C_0ToyZoneGood_BP_C_1
+[2017.10.18-23.32.29:647][839]LogBlueprintUserMessages: [ToyZoneGood_BP_C_2] Brick_BP8ToyZoneGood_BP_C_2
+[2017.10.18-23.32.30:071][877]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] BP_MotionController_C_0ToyZoneGood_BP_C_1
+[2017.10.18-23.32.30:406][907]LogBlueprintUserMessages: [ToyZoneGood_BP_C_2] Brick_BP8ToyZoneGood_BP_C_2
+[2017.10.18-23.32.30:976][958]LogBlueprintUserMessages: [ToyZoneGood_BP_C_2] Brick_BP8ToyZoneGood_BP_C_2
+[2017.10.18-23.32.33:343][170]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Brick_BP8TableTriggerZone_BP_93
+[2017.10.18-23.32.41:287][881]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.32.57:752][355]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.33.02:455][776]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Etch_BP4TableTriggerZone_BP_93
+[2017.10.18-23.33.03:002][825]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP4ToyZoneGood_BP_C_3
+[2017.10.18-23.33.03:371][858]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.33.06:298][120]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.33.09:537][410]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.33.09:861][439]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP5ToyZoneGood_BP_C_3
+[2017.10.18-23.33.11:302][568]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP5ToyZoneGood_BP_C_3
+[2017.10.18-23.33.11:514][587]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP5ToyZoneGood_BP_C_3
+[2017.10.18-23.33.16:609][ 43]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.33.26:349][915]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP5ToyZoneGood_BP_C_3
+[2017.10.18-23.33.26:975][971]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.33.27:701][ 36]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Etch_BP5ToyZoneGood_BP_C_1
+[2017.10.18-23.33.27:924][ 56]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Etch_BP5ToyZoneGood_BP_C_1
+[2017.10.18-23.33.28:728][128]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Etch_BP5ToyZoneGood_BP_C_1
+[2017.10.18-23.33.34:927][683]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.33.47:070][769]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Brick_BP11_10TableTriggerZone_BP_93
+[2017.10.18-23.33.47:194][780]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.33.51:494][165]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Brick_BP12TableTriggerZone_BP_93
+[2017.10.18-23.33.55:023][481]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.33.55:872][557]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] BP_MotionController_C_0ToyZoneGood_BP_C_3
+[2017.10.18-23.34.01:647][ 74]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.34.25:652][223]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.34.28:893][513]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.34.34:030][973]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.34.49:232][334]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.34.49:367][346]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.34.56:828][ 14]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.34.56:839][ 15]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] BP_MotionController_C_0ToyZoneGood_BP_C_3
+[2017.10.18-23.35.07:999][ 14]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.35.14:266][575]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.35.14:546][600]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.35.15:216][660]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.35.15:417][678]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.35.18:311][937]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.35.20:634][145]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP4ToyZoneGood_BP_C_3
+[2017.10.18-23.35.23:181][373]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.35.24:063][452]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.35.24:622][502]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.35.25:717][600]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP4ToyZoneGood_BP_C_3
+[2017.10.18-23.35.26:365][658]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP4ToyZoneGood_BP_C_3
+[2017.10.18-23.35.27:962][801]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP4ToyZoneGood_BP_C_3
+[2017.10.18-23.35.28:420][842]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Etch_BP5TableTriggerZone_BP_93
+[2017.10.18-23.35.29:090][902]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.35.29:314][922]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.35.42:573][109]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP5ToyZoneGood_BP_C_3
+[2017.10.18-23.35.43:109][157]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP4ToyZoneGood_BP_C_3
+[2017.10.18-23.35.58:168][505]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.35.58:961][576]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.35.59:541][628]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.36.01:631][815]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.36.04:233][ 48]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP4ToyZoneGood_BP_C_3
+[2017.10.18-23.36.05:015][118]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP4ToyZoneGood_BP_C_3
+[2017.10.18-23.36.07:652][354]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Brick_BP11_10ToyZoneGood_BP_C_1
+[2017.10.18-23.36.23:468][769]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Etch_BP4ToyZoneGood_BP_C_3
+[2017.10.18-23.36.30:874][432]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.36.31:656][502]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] Brick_BP12ToyZoneGood_BP_C_0
+[2017.10.18-23.36.32:818][606]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Brick_BP12ToyZoneGood_BP_C_1
+[2017.10.18-23.36.34:314][740]LogBlueprintUserMessages: [ToyZoneGood_BP_C_2] Brick_BP12ToyZoneGood_BP_C_2
+[2017.10.18-23.36.35:241][823]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] BP_MotionController_C_0ToyZoneGood_BP_C_3
+[2017.10.18-23.36.35:275][826]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] Brick_BP12ToyZoneGood_BP_C_3
+[2017.10.18-23.36.38:213][ 89]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.36.54:386][536]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.36.54:465][543]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.36.57:080][777]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.36.57:274][777]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.37.08:385][431]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2017.10.18-23.37.12:531][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToyBox)
+[2017.10.18-23.37.51:939][771]LogEditorViewport: Clicking on Actor (LMB): Brick_BP_C (Brick_BP8)
+[2017.10.18-23.37.56:203][  5]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2017.10.18-23.38.06:295][551]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.38.06:295][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.18-23.38.06:295][551]PIE: New page: PIE session: DemoLevel (Oct 18, 2017, 9:38:06 AM)
+[2017.10.18-23.38.06:295][551]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel
+[2017.10.18-23.38.06:300][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004982s)
+[2017.10.18-23.38.06:301][551]LogAIModule: Creating AISystem for world DemoLevel
+[2017.10.18-23.38.06:301][551]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2017.10.18-23.38.06:302][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel to /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.006218s)
+[2017.10.18-23.38.06:353][551]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.18-23.38.06:360][551]LogInit: FAudioDevice initialized.
+[2017.10.18-23.38.06:394][551]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.18-23.38.06:394][551]LogLoad: Game class is 'GameModeBase'
+[2017.10.18-23.38.06:395][551]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.ToyBox_10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.38.06:398][551]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2017.10.18-16.38.06
+[2017.10.18-23.38.06:399][551]LogWorld: Bringing up level for play took: 0.004903
+[2017.10.18-23.38.06:402][551]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] ToyZoneGood_BP_C_1ToyZoneGood_BP_C_3
+[2017.10.18-23.38.06:402][551]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] ToyZoneGood_BP_C_3ToyZoneGood_BP_C_1
+[2017.10.18-23.38.06:402][551]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.38.06:402][551]LogBlueprintUserMessages: [SteeringWheel_BP_2]  SteeringWheel to 
+[2017.10.18-23.38.06:402][551]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.38.06:402][551]LogBlueprintUserMessages: [SteeringWheel_BP2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.38.06:402][551]LogBlueprintUserMessages: [SteeringWheel_BP2]  SteeringWheel to 
+[2017.10.18-23.38.06:402][551]LogBlueprintUserMessages: [SteeringWheel_BP2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.38.06:402][551]LogBlueprintUserMessages: [SteeringWheel_BP6] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.38.06:402][551]LogBlueprintUserMessages: [SteeringWheel_BP6]  SteeringWheel to 
+[2017.10.18-23.38.06:402][551]LogBlueprintUserMessages: [SteeringWheel_BP6] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.38.06:402][551]LogBlueprintUserMessages: [SteeringWheel_BP3] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.38.06:402][551]LogBlueprintUserMessages: [SteeringWheel_BP3]  SteeringWheel to 
+[2017.10.18-23.38.06:402][551]LogBlueprintUserMessages: [SteeringWheel_BP3] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.38.06:402][551]LogBlueprintUserMessages: [SteeringWheel_BP4] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.38.06:402][551]LogBlueprintUserMessages: [SteeringWheel_BP4]  SteeringWheel to 
+[2017.10.18-23.38.06:403][551]LogBlueprintUserMessages: [SteeringWheel_BP4] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.38.06:403][551]LogBlueprintUserMessages: [SteeringWheel_BP5] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.38.06:403][551]LogBlueprintUserMessages: [SteeringWheel_BP5]  SteeringWheel to 
+[2017.10.18-23.38.06:403][551]LogBlueprintUserMessages: [SteeringWheel_BP5] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.38.06:405][551]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.38.06:406][551]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.38.06:406][551]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel 1.073
+[2017.10.18-23.38.06:407][551]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.38.13:182][940]LogEditorViewport: Clicking on Actor (LMB): TableTriggerZone_BP_C (TableTriggerZone_BP)
+[2017.10.18-23.38.13:838][970]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.18-23.38.36:445][311]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.38.36:481][311]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.39.00:178][863]LogSavePackage: Save=11.82ms
+[2017.10.18-23.39.00:178][863]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/WoodenTrain4BE0EC0F4DA2795787480395ED5ADCDF.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/WoodenTrain.uasset'
+[2017.10.18-23.39.00:189][863]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/WoodenTrain.uasset
+[2017.10.18-23.39.11:137][616]LogSavePackage: Save=13.03ms
+[2017.10.18-23.39.11:137][616]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/Desk3ECA1F0748A0FC2FF8522B9BA7923F72.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/Desk.uasset'
+[2017.10.18-23.39.11:138][616]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/Desk.uasset
+[2017.10.18-23.39.14:251][804]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.18-23.39.19:079][ 37]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.KnickKnackWackyStack
+[2017.10.18-23.39.19:079][ 37]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.10.18-23.39.19:079][ 37]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2017.10.18-23.39.19:079][ 37]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.10.18-23.39.19:079][ 37]LogTemp: BranchPath = DIT2010US/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = DIT2010US/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2017.10.18-23.39.19:080][ 37]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\christopher.reilly\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.10.18-23.40.35:662][449]LogSavePackage: Save=12.19ms
+[2017.10.18-23.40.35:662][449]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/EtchySketchyE0A2FC184178E4E49992EFB3C0BD85A6.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/EtchySketchy.uasset'
+[2017.10.18-23.40.35:663][449]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/EtchySketchy.uasset
+[2017.10.18-23.40.44:384][ 79]LogSavePackage: Save=12.89ms
+[2017.10.18-23.40.44:384][ 79]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/DolloC7125F5447045C0E72FDE59E33C35C9E.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/Dollo.uasset'
+[2017.10.18-23.40.44:385][ 79]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/Dollo.uasset
+[2017.10.18-23.40.47:071][322]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.18-23.40.47:088][322]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.40.47:088][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.18-23.40.47:088][322]PIE: New page: PIE session: DemoLevel (Oct 18, 2017, 9:40:47 AM)
+[2017.10.18-23.40.47:088][322]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel
+[2017.10.18-23.40.47:095][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006457s)
+[2017.10.18-23.40.47:095][322]LogAIModule: Creating AISystem for world DemoLevel
+[2017.10.18-23.40.47:096][322]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2017.10.18-23.40.47:096][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel to /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.007887s)
+[2017.10.18-23.40.47:133][322]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.18-23.40.47:139][322]LogInit: FAudioDevice initialized.
+[2017.10.18-23.40.47:174][322]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.18-23.40.47:175][322]LogLoad: Game class is 'GameModeBase'
+[2017.10.18-23.40.47:176][322]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.ToyBox_10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.47:176][322]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Dollo_BP2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.47:176][322]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Train_BP_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.47:176][322]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Train_BP2_5.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.47:177][322]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Etch_BP_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.47:177][322]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Etch_BP2_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.47:177][322]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Etch_BP3.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.47:177][322]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Etch_BP4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.47:177][322]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Etch_BP5.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.47:178][322]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Dollo_BP3.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.47:178][322]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Dollo_BP4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.47:178][322]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Train_BP3.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.47:178][322]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Dollo_BP5.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.47:179][322]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Dollo_BP6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.47:179][322]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Dollo_BP7.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.47:179][322]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Train_BP4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.47:180][322]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2017.10.18-16.40.47
+[2017.10.18-23.40.47:180][322]LogWorld: Bringing up level for play took: 0.005192
+[2017.10.18-23.40.47:183][322]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.40.47:183][322]LogBlueprintUserMessages: [SteeringWheel_BP_2]  SteeringWheel to 
+[2017.10.18-23.40.47:183][322]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.40.47:183][322]LogBlueprintUserMessages: [SteeringWheel_BP2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.40.47:183][322]LogBlueprintUserMessages: [SteeringWheel_BP2]  SteeringWheel to 
+[2017.10.18-23.40.47:183][322]LogBlueprintUserMessages: [SteeringWheel_BP2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.40.47:183][322]LogBlueprintUserMessages: [SteeringWheel_BP6] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.40.47:183][322]LogBlueprintUserMessages: [SteeringWheel_BP6]  SteeringWheel to 
+[2017.10.18-23.40.47:183][322]LogBlueprintUserMessages: [SteeringWheel_BP6] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.40.47:183][322]LogBlueprintUserMessages: [SteeringWheel_BP3] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.40.47:183][322]LogBlueprintUserMessages: [SteeringWheel_BP3]  SteeringWheel to 
+[2017.10.18-23.40.47:183][322]LogBlueprintUserMessages: [SteeringWheel_BP3] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.40.47:183][322]LogBlueprintUserMessages: [SteeringWheel_BP4] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.40.47:183][322]LogBlueprintUserMessages: [SteeringWheel_BP4]  SteeringWheel to 
+[2017.10.18-23.40.47:183][322]LogBlueprintUserMessages: [SteeringWheel_BP4] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.40.47:183][322]LogBlueprintUserMessages: [SteeringWheel_BP5] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.40.47:183][322]LogBlueprintUserMessages: [SteeringWheel_BP5]  SteeringWheel to 
+[2017.10.18-23.40.47:183][322]LogBlueprintUserMessages: [SteeringWheel_BP5] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.40.47:186][322]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.40.47:187][322]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.40.47:187][322]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel -0.154
+[2017.10.18-23.40.47:188][322]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.40.50:389][643]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.40.50:422][643]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.40.55:196][115]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.40.55:196][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.18-23.40.55:197][115]PIE: New page: PIE session: DemoLevel (Oct 18, 2017, 9:40:55 AM)
+[2017.10.18-23.40.55:197][115]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel
+[2017.10.18-23.40.55:202][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005533s)
+[2017.10.18-23.40.55:203][115]LogAIModule: Creating AISystem for world DemoLevel
+[2017.10.18-23.40.55:203][115]LogPlayLevel: PIE: World Init took: (0.001078s)
+[2017.10.18-23.40.55:204][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel to /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.007036s)
+[2017.10.18-23.40.55:231][115]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.18-23.40.55:237][115]LogInit: FAudioDevice initialized.
+[2017.10.18-23.40.55:329][115]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.18-23.40.55:329][115]LogLoad: Game class is 'GameModeBase'
+[2017.10.18-23.40.55:330][115]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.ToyBox_10.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.55:331][115]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Dollo_BP2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.55:331][115]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Train_BP_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.55:331][115]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Train_BP2_5.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.55:331][115]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Etch_BP_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.55:332][115]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Etch_BP2_2.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.55:332][115]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Etch_BP3.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.55:332][115]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Etch_BP4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.55:332][115]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Etch_BP5.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.55:333][115]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Dollo_BP3.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.55:333][115]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Dollo_BP4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.55:333][115]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Train_BP3.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.55:333][115]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Dollo_BP5.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.55:333][115]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Dollo_BP6.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.55:333][115]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Dollo_BP7.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.55:333][115]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Train_BP4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.40.55:334][115]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2017.10.18-16.40.55
+[2017.10.18-23.40.55:335][115]LogWorld: Bringing up level for play took: 0.005714
+[2017.10.18-23.40.55:338][115]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.40.55:338][115]LogBlueprintUserMessages: [SteeringWheel_BP_2]  SteeringWheel to 
+[2017.10.18-23.40.55:338][115]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.40.55:338][115]LogBlueprintUserMessages: [SteeringWheel_BP2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.40.55:338][115]LogBlueprintUserMessages: [SteeringWheel_BP2]  SteeringWheel to 
+[2017.10.18-23.40.55:338][115]LogBlueprintUserMessages: [SteeringWheel_BP2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.40.55:338][115]LogBlueprintUserMessages: [SteeringWheel_BP6] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.40.55:338][115]LogBlueprintUserMessages: [SteeringWheel_BP6]  SteeringWheel to 
+[2017.10.18-23.40.55:338][115]LogBlueprintUserMessages: [SteeringWheel_BP6] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.40.55:338][115]LogBlueprintUserMessages: [SteeringWheel_BP3] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.40.55:338][115]LogBlueprintUserMessages: [SteeringWheel_BP3]  SteeringWheel to 
+[2017.10.18-23.40.55:338][115]LogBlueprintUserMessages: [SteeringWheel_BP3] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.40.55:338][115]LogBlueprintUserMessages: [SteeringWheel_BP4] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.40.55:338][115]LogBlueprintUserMessages: [SteeringWheel_BP4]  SteeringWheel to 
+[2017.10.18-23.40.55:338][115]LogBlueprintUserMessages: [SteeringWheel_BP4] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.40.55:338][115]LogBlueprintUserMessages: [SteeringWheel_BP5] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.40.55:338][115]LogBlueprintUserMessages: [SteeringWheel_BP5]  SteeringWheel to 
+[2017.10.18-23.40.55:339][115]LogBlueprintUserMessages: [SteeringWheel_BP5] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.40.55:340][115]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.40.55:342][115]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.40.55:352][115]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel 0.011
+[2017.10.18-23.40.55:353][115]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.41.05:075][969]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.41.08:663][290]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.41.20:101][314]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.41.25:150][766]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Train_BP4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.41.26:849][918]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Train_BP4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.41.28:223][ 41]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Train_BP4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.41.29:652][169]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Train_BP4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.41.30:736][266]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Train_BP4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.41.32:143][392]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Train_BP4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.41.34:266][582]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Train_BP4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.41.35:260][671]PIE: Warning: Trying to simulate physics on ''/Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel:PersistentLevel.Train_BP4.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2017.10.18-23.41.43:783][434]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.41.43:930][434]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.42.09:963][ 85]LogSavePackage: Save=12.43ms
+[2017.10.18-23.42.09:964][ 85]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/DolloBA15C99B4B606AEF696224B5F2B9F14A.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/Dollo.uasset'
+[2017.10.18-23.42.09:965][ 85]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/Dollo.uasset
+[2017.10.18-23.42.18:215][756]LogSavePackage: Save=12.08ms
+[2017.10.18-23.42.18:215][756]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/WoodenTrain64F282474D35A014C968BDA2D4977C70.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/WoodenTrain.uasset'
+[2017.10.18-23.42.18:217][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/WoodenTrain.uasset
+[2017.10.18-23.42.30:432][676]LogSavePackage: Save=13.41ms
+[2017.10.18-23.42.30:432][676]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/ToyBox7FACE9C74BD43899960CE48A5CE4817C.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/ToyBox.uasset'
+[2017.10.18-23.42.30:434][676]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/ToyBox.uasset
+[2017.10.18-23.42.40:745][419]LogSavePackage: Save=10.80ms
+[2017.10.18-23.42.40:745][419]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/EtchySketchy0F6DA0074AC84E6230ED2795FE8AD57A.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/EtchySketchy.uasset'
+[2017.10.18-23.42.40:746][419]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/EtchySketchy.uasset
+[2017.10.18-23.42.41:372][469]LogSavePackage: Save=2.99ms
+[2017.10.18-23.42.41:372][469]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/EtchySketchy56B3FE614FBE47E5826D2686BE5B869E.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/EtchySketchy.uasset'
+[2017.10.18-23.42.41:373][469]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/EtchySketchy.uasset
+[2017.10.18-23.42.47:999][967]LogSavePackage: Save=12.60ms
+[2017.10.18-23.42.47:999][967]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/Desk1566F7214DA9C97D626AC5AE63CF60DD.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/Desk.uasset'
+[2017.10.18-23.42.48:000][967]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Content/VirtualRealityBP/Assets/Desk.uasset
+[2017.10.18-23.42.50:496][201]LogTemp: Repeating last play command: VR Preview
+[2017.10.18-23.42.50:513][201]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.42.50:513][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.18-23.42.50:514][201]PIE: New page: PIE session: DemoLevel (Oct 18, 2017, 9:42:50 AM)
+[2017.10.18-23.42.50:514][201]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel
+[2017.10.18-23.42.50:519][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004861s)
+[2017.10.18-23.42.50:519][201]LogAIModule: Creating AISystem for world DemoLevel
+[2017.10.18-23.42.50:520][201]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2017.10.18-23.42.50:520][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel to /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.006095s)
+[2017.10.18-23.42.50:554][201]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.18-23.42.50:560][201]LogInit: FAudioDevice initialized.
+[2017.10.18-23.42.50:649][201]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.18-23.42.50:649][201]LogLoad: Game class is 'GameModeBase'
+[2017.10.18-23.42.50:653][201]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2017.10.18-16.42.50
+[2017.10.18-23.42.50:654][201]LogWorld: Bringing up level for play took: 0.003615
+[2017.10.18-23.42.50:656][201]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.42.50:656][201]LogBlueprintUserMessages: [SteeringWheel_BP_2]  SteeringWheel to 
+[2017.10.18-23.42.50:656][201]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.42.50:656][201]LogBlueprintUserMessages: [SteeringWheel_BP2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.42.50:656][201]LogBlueprintUserMessages: [SteeringWheel_BP2]  SteeringWheel to 
+[2017.10.18-23.42.50:656][201]LogBlueprintUserMessages: [SteeringWheel_BP2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.42.50:656][201]LogBlueprintUserMessages: [SteeringWheel_BP6] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.42.50:657][201]LogBlueprintUserMessages: [SteeringWheel_BP6]  SteeringWheel to 
+[2017.10.18-23.42.50:657][201]LogBlueprintUserMessages: [SteeringWheel_BP6] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.42.50:657][201]LogBlueprintUserMessages: [SteeringWheel_BP3] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.42.50:657][201]LogBlueprintUserMessages: [SteeringWheel_BP3]  SteeringWheel to 
+[2017.10.18-23.42.50:657][201]LogBlueprintUserMessages: [SteeringWheel_BP3] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.42.50:657][201]LogBlueprintUserMessages: [SteeringWheel_BP4] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.42.50:657][201]LogBlueprintUserMessages: [SteeringWheel_BP4]  SteeringWheel to 
+[2017.10.18-23.42.50:657][201]LogBlueprintUserMessages: [SteeringWheel_BP4] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.42.50:657][201]LogBlueprintUserMessages: [SteeringWheel_BP5] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.42.50:657][201]LogBlueprintUserMessages: [SteeringWheel_BP5]  SteeringWheel to 
+[2017.10.18-23.42.50:657][201]LogBlueprintUserMessages: [SteeringWheel_BP5] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.42.50:659][201]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.42.50:660][201]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.42.50:666][201]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel -0.681
+[2017.10.18-23.42.50:667][201]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.43.31:590][857]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.43.31:601][858]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Brick_BP6TableTriggerZone_BP_93
+[2017.10.18-23.43.34:527][120]LogBlueprintUserMessages: [TableTriggerZone_BP_93] SteeringWheel_BP3TableTriggerZone_BP_93
+[2017.10.18-23.43.35:130][174]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.43.35:264][186]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] SteeringWheel_BP3ToyZoneGood_BP_C_1
+[2017.10.18-23.43.36:930][335]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] SteeringWheel_BP3ToyZoneGood_BP_C_1
+[2017.10.18-23.43.37:679][402]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] SteeringWheel_BP3ToyZoneGood_BP_C_1
+[2017.10.18-23.43.38:405][467]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] SteeringWheel_BP3ToyZoneGood_BP_C_1
+[2017.10.18-23.43.41:576][751]LogBlueprintUserMessages: [TableTriggerZone_BP_93] SteeringWheel_BP2TableTriggerZone_BP_93
+[2017.10.18-23.43.42:033][792]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.43.42:246][811]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] SteeringWheel_BP2ToyZoneGood_BP_C_1
+[2017.10.18-23.43.42:984][877]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] SteeringWheel_BP2ToyZoneGood_BP_C_1
+[2017.10.18-23.43.44:346][999]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] SteeringWheel_BP2ToyZoneGood_BP_C_1
+[2017.10.18-23.43.50:255][528]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.43.51:060][600]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Brick_BP6ToyZoneGood_BP_C_1
+[2017.10.18-23.43.51:115][605]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] BP_MotionController_C_1ToyZoneGood_BP_C_1
+[2017.10.18-23.44.10:317][324]LogBlueprintUserMessages: [TableTriggerZone_BP_93] SteeringWheel_BP4TableTriggerZone_BP_93
+[2017.10.18-23.44.10:652][354]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.44.11:177][401]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] SteeringWheel_BP4ToyZoneGood_BP_C_0
+[2017.10.18-23.44.12:281][500]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.44.12:606][529]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.44.12:874][553]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.44.13:253][587]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.44.22:872][448]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.44.31:162][190]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.44.31:297][190]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.44.31:503][205]Cmd: SELECT NONE
+[2017.10.18-23.44.58:370][530]LogTemp: Repeating last play command: VR Preview
+[2017.10.18-23.44.58:387][530]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.44.58:387][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.18-23.44.58:387][530]PIE: New page: PIE session: DemoLevel (Oct 18, 2017, 9:44:58 AM)
+[2017.10.18-23.44.58:388][530]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel
+[2017.10.18-23.44.58:392][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004715s)
+[2017.10.18-23.44.58:393][530]LogAIModule: Creating AISystem for world DemoLevel
+[2017.10.18-23.44.58:393][530]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2017.10.18-23.44.58:394][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel to /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.005971s)
+[2017.10.18-23.44.58:421][530]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.18-23.44.58:427][530]LogInit: FAudioDevice initialized.
+[2017.10.18-23.44.58:527][530]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.18-23.44.58:527][530]LogLoad: Game class is 'GameModeBase'
+[2017.10.18-23.44.58:531][530]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2017.10.18-16.44.58
+[2017.10.18-23.44.58:532][530]LogWorld: Bringing up level for play took: 0.004071
+[2017.10.18-23.44.58:534][530]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.44.58:534][530]LogBlueprintUserMessages: [SteeringWheel_BP_2]  SteeringWheel to 
+[2017.10.18-23.44.58:534][530]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.44.58:534][530]LogBlueprintUserMessages: [SteeringWheel_BP2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.44.58:534][530]LogBlueprintUserMessages: [SteeringWheel_BP2]  SteeringWheel to 
+[2017.10.18-23.44.58:535][530]LogBlueprintUserMessages: [SteeringWheel_BP2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.44.58:535][530]LogBlueprintUserMessages: [SteeringWheel_BP6] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.44.58:535][530]LogBlueprintUserMessages: [SteeringWheel_BP6]  SteeringWheel to 
+[2017.10.18-23.44.58:535][530]LogBlueprintUserMessages: [SteeringWheel_BP6] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.44.58:535][530]LogBlueprintUserMessages: [SteeringWheel_BP3] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.44.58:535][530]LogBlueprintUserMessages: [SteeringWheel_BP3]  SteeringWheel to 
+[2017.10.18-23.44.58:535][530]LogBlueprintUserMessages: [SteeringWheel_BP3] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.44.58:535][530]LogBlueprintUserMessages: [SteeringWheel_BP4] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.44.58:535][530]LogBlueprintUserMessages: [SteeringWheel_BP4]  SteeringWheel to 
+[2017.10.18-23.44.58:535][530]LogBlueprintUserMessages: [SteeringWheel_BP4] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.44.58:535][530]LogBlueprintUserMessages: [SteeringWheel_BP5] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.44.58:535][530]LogBlueprintUserMessages: [SteeringWheel_BP5]  SteeringWheel to 
+[2017.10.18-23.44.58:535][530]LogBlueprintUserMessages: [SteeringWheel_BP5] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.44.58:537][530]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.44.58:538][530]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.44.58:545][530]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel -0.808
+[2017.10.18-23.44.58:546][530]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.45.13:520][862]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.45.13:676][862]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.45.36:681][236]LogTemp: Repeating last play command: VR Preview
+[2017.10.18-23.45.36:698][236]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.45.36:698][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.18-23.45.36:698][236]PIE: New page: PIE session: DemoLevel (Oct 18, 2017, 9:45:36 AM)
+[2017.10.18-23.45.36:698][236]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel
+[2017.10.18-23.45.36:703][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004621s)
+[2017.10.18-23.45.36:703][236]LogAIModule: Creating AISystem for world DemoLevel
+[2017.10.18-23.45.36:703][236]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2017.10.18-23.45.36:704][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel to /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.005627s)
+[2017.10.18-23.45.36:731][236]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.18-23.45.36:737][236]LogInit: FAudioDevice initialized.
+[2017.10.18-23.45.36:821][236]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.18-23.45.36:821][236]LogLoad: Game class is 'GameModeBase'
+[2017.10.18-23.45.36:825][236]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2017.10.18-16.45.36
+[2017.10.18-23.45.36:825][236]LogWorld: Bringing up level for play took: 0.003945
+[2017.10.18-23.45.36:828][236]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] ToyZoneGood_BP_C_1ToyZoneGood_BP_C_3
+[2017.10.18-23.45.36:828][236]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] ToyZoneGood_BP_C_3ToyZoneGood_BP_C_1
+[2017.10.18-23.45.36:828][236]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.45.36:828][236]LogBlueprintUserMessages: [SteeringWheel_BP_2]  SteeringWheel to 
+[2017.10.18-23.45.36:828][236]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.45.36:828][236]LogBlueprintUserMessages: [SteeringWheel_BP2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.45.36:828][236]LogBlueprintUserMessages: [SteeringWheel_BP2]  SteeringWheel to 
+[2017.10.18-23.45.36:828][236]LogBlueprintUserMessages: [SteeringWheel_BP2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.45.36:828][236]LogBlueprintUserMessages: [SteeringWheel_BP6] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.45.36:828][236]LogBlueprintUserMessages: [SteeringWheel_BP6]  SteeringWheel to 
+[2017.10.18-23.45.36:828][236]LogBlueprintUserMessages: [SteeringWheel_BP6] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.45.36:828][236]LogBlueprintUserMessages: [SteeringWheel_BP3] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.45.36:828][236]LogBlueprintUserMessages: [SteeringWheel_BP3]  SteeringWheel to 
+[2017.10.18-23.45.36:829][236]LogBlueprintUserMessages: [SteeringWheel_BP3] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.45.36:829][236]LogBlueprintUserMessages: [SteeringWheel_BP4] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.45.36:829][236]LogBlueprintUserMessages: [SteeringWheel_BP4]  SteeringWheel to 
+[2017.10.18-23.45.36:829][236]LogBlueprintUserMessages: [SteeringWheel_BP4] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.45.36:829][236]LogBlueprintUserMessages: [SteeringWheel_BP5] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.45.36:829][236]LogBlueprintUserMessages: [SteeringWheel_BP5]  SteeringWheel to 
+[2017.10.18-23.45.36:829][236]LogBlueprintUserMessages: [SteeringWheel_BP5] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.45.36:831][236]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.45.36:832][236]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.45.36:839][236]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel -0.517
+[2017.10.18-23.45.36:840][236]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.45.39:504][465]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.45.39:663][465]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.45.42:797][774]LogTemp: Repeating last play command: VR Preview
+[2017.10.18-23.45.42:813][774]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.45.42:813][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.18-23.45.42:813][774]PIE: New page: PIE session: DemoLevel (Oct 18, 2017, 9:45:42 AM)
+[2017.10.18-23.45.42:813][774]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel
+[2017.10.18-23.45.42:817][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004377s)
+[2017.10.18-23.45.42:818][774]LogAIModule: Creating AISystem for world DemoLevel
+[2017.10.18-23.45.42:818][774]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2017.10.18-23.45.42:818][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel to /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.005417s)
+[2017.10.18-23.45.42:843][774]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.18-23.45.42:848][774]LogInit: FAudioDevice initialized.
+[2017.10.18-23.45.42:930][774]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.18-23.45.42:930][774]LogLoad: Game class is 'GameModeBase'
+[2017.10.18-23.45.42:934][774]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2017.10.18-16.45.42
+[2017.10.18-23.45.42:934][774]LogWorld: Bringing up level for play took: 0.004146
+[2017.10.18-23.45.42:936][774]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] ToyZoneGood_BP_C_0ToyZoneGood_BP_C_1
+[2017.10.18-23.45.42:936][774]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] ToyZoneGood_BP_C_1ToyZoneGood_BP_C_0
+[2017.10.18-23.45.42:937][774]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.45.42:937][774]LogBlueprintUserMessages: [SteeringWheel_BP_2]  SteeringWheel to 
+[2017.10.18-23.45.42:937][774]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.45.42:937][774]LogBlueprintUserMessages: [SteeringWheel_BP2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.45.42:937][774]LogBlueprintUserMessages: [SteeringWheel_BP2]  SteeringWheel to 
+[2017.10.18-23.45.42:937][774]LogBlueprintUserMessages: [SteeringWheel_BP2] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.45.42:937][774]LogBlueprintUserMessages: [SteeringWheel_BP6] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.45.42:937][774]LogBlueprintUserMessages: [SteeringWheel_BP6]  SteeringWheel to 
+[2017.10.18-23.45.42:937][774]LogBlueprintUserMessages: [SteeringWheel_BP6] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.45.42:937][774]LogBlueprintUserMessages: [SteeringWheel_BP3] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.45.42:937][774]LogBlueprintUserMessages: [SteeringWheel_BP3]  SteeringWheel to 
+[2017.10.18-23.45.42:937][774]LogBlueprintUserMessages: [SteeringWheel_BP3] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.45.42:938][774]LogBlueprintUserMessages: [SteeringWheel_BP4] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.45.42:938][774]LogBlueprintUserMessages: [SteeringWheel_BP4]  SteeringWheel to 
+[2017.10.18-23.45.42:938][774]LogBlueprintUserMessages: [SteeringWheel_BP4] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.45.42:938][774]LogBlueprintUserMessages: [SteeringWheel_BP5] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.18-23.45.42:938][774]LogBlueprintUserMessages: [SteeringWheel_BP5]  SteeringWheel to 
+[2017.10.18-23.45.42:938][774]LogBlueprintUserMessages: [SteeringWheel_BP5] X=19.164 Y=19.164 Z=4.965
+[2017.10.18-23.45.42:940][774]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.18-23.45.42:941][774]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.18-23.45.42:946][774]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel -0.409
+[2017.10.18-23.45.42:947][774]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.45.49:668][367]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.45.49:820][367]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.18-23.46.17:044][217]LogSavePackage: Save=264.99ms
+[2017.10.18-23.46.17:044][217]LogSavePackage: Moving '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/DemoLevel_Auto320894AE14910440AB4709D9AB27D568E.tmp' to '../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/Autosaves/Game/VirtualRealityBP/Maps/DemoLevel_Auto3.umap'
+[2017.10.18-23.46.17:045][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/christopher.reilly/Desktop/KnickKnackWackyStack/KnickKnackWackyStack/Saved/Autosaves/Game/VirtualRealityBP/Maps/DemoLevel_Auto3.umap
+[2017.10.18-23.46.17:046][217]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/DemoLevel' took 0.298
+[2017.10.18-23.46.17:046][217]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.298
+[2017.10.19-00.05.44:971][802]LogTemp: Repeating last play command: VR Preview
+[2017.10.19-00.05.44:988][802]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.19-00.05.44:988][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.19-00.05.44:988][802]PIE: New page: PIE session: DemoLevel (Oct 18, 2017, 10:05:44 AM)
+[2017.10.19-00.05.44:988][802]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel
+[2017.10.19-00.05.44:995][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006563s)
+[2017.10.19-00.05.44:996][802]LogAIModule: Creating AISystem for world DemoLevel
+[2017.10.19-00.05.44:996][802]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2017.10.19-00.05.44:996][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel to /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.008016s)
+[2017.10.19-00.05.45:026][802]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.19-00.05.45:033][802]LogInit: FAudioDevice initialized.
+[2017.10.19-00.05.45:120][802]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.19-00.05.45:121][802]LogLoad: Game class is 'GameModeBase'
+[2017.10.19-00.05.45:124][802]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2017.10.18-17.05.45
+[2017.10.19-00.05.45:125][802]LogWorld: Bringing up level for play took: 0.003869
+[2017.10.19-00.05.45:128][802]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.19-00.05.45:128][802]LogBlueprintUserMessages: [SteeringWheel_BP_2]  SteeringWheel to 
+[2017.10.19-00.05.45:128][802]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=19.164 Y=19.164 Z=4.965
+[2017.10.19-00.05.45:128][802]LogBlueprintUserMessages: [SteeringWheel_BP2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.19-00.05.45:128][802]LogBlueprintUserMessages: [SteeringWheel_BP2]  SteeringWheel to 
+[2017.10.19-00.05.45:128][802]LogBlueprintUserMessages: [SteeringWheel_BP2] X=19.164 Y=19.164 Z=4.965
+[2017.10.19-00.05.45:128][802]LogBlueprintUserMessages: [SteeringWheel_BP6] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.19-00.05.45:128][802]LogBlueprintUserMessages: [SteeringWheel_BP6]  SteeringWheel to 
+[2017.10.19-00.05.45:128][802]LogBlueprintUserMessages: [SteeringWheel_BP6] X=19.164 Y=19.164 Z=4.965
+[2017.10.19-00.05.45:128][802]LogBlueprintUserMessages: [SteeringWheel_BP3] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.19-00.05.45:128][802]LogBlueprintUserMessages: [SteeringWheel_BP3]  SteeringWheel to 
+[2017.10.19-00.05.45:128][802]LogBlueprintUserMessages: [SteeringWheel_BP3] X=19.164 Y=19.164 Z=4.965
+[2017.10.19-00.05.45:128][802]LogBlueprintUserMessages: [SteeringWheel_BP4] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.19-00.05.45:128][802]LogBlueprintUserMessages: [SteeringWheel_BP4]  SteeringWheel to 
+[2017.10.19-00.05.45:128][802]LogBlueprintUserMessages: [SteeringWheel_BP4] X=19.164 Y=19.164 Z=4.965
+[2017.10.19-00.05.45:128][802]LogBlueprintUserMessages: [SteeringWheel_BP5] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.19-00.05.45:128][802]LogBlueprintUserMessages: [SteeringWheel_BP5]  SteeringWheel to 
+[2017.10.19-00.05.45:128][802]LogBlueprintUserMessages: [SteeringWheel_BP5] X=19.164 Y=19.164 Z=4.965
+[2017.10.19-00.05.45:130][802]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.19-00.05.45:132][802]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.05.45:137][802]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel -0.279
+[2017.10.19-00.05.45:138][802]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.19-00.06.00:315][150]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.06.05:889][649]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.06.08:896][918]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.06.10:983][105]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.06.11:866][184]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] BP_MotionController_C_1ToyZoneGood_BP_C_0
+[2017.10.19-00.06.16:658][613]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] BP_MotionController_C_1ToyZoneGood_BP_C_3
+[2017.10.19-00.06.17:105][653]LogBlueprintUserMessages: [ToyZoneGood_BP_C_3] BP_MotionController_C_1ToyZoneGood_BP_C_3
+[2017.10.19-00.06.18:043][737]LogBlueprintUserMessages: [ToyZoneGood_BP_C_0] BP_MotionController_C_1ToyZoneGood_BP_C_0
+[2017.10.19-00.06.23:327][210]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Brick_BP12TableTriggerZone_BP_93
+[2017.10.19-00.06.23:517][227]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.06.32:722][ 51]LogBlueprintUserMessages: [TableTriggerZone_BP_93] SteeringWheel_BP3TableTriggerZone_BP_93
+[2017.10.19-00.06.32:800][ 58]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Brick_BP11_10TableTriggerZone_BP_93
+[2017.10.19-00.06.32:823][ 60]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.06.35:336][285]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.06.36:620][400]LogBlueprintUserMessages: [TableTriggerZone_BP_93] SteeringWheel_BP3TableTriggerZone_BP_93
+[2017.10.19-00.06.36:632][401]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.19-00.06.36:766][413]LogBlueprintUserMessages: [TableTriggerZone_BP_93] SteeringWheel_BP3TableTriggerZone_BP_93
+[2017.10.19-00.06.36:788][415]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.19-00.06.46:272][264]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Brick_BP12TableTriggerZone_BP_93
+[2017.10.19-00.06.46:339][270]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.19-00.06.46:362][272]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.06.57:822][298]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.06.58:660][373]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] SteeringWheel_BP3ToyZoneGood_BP_C_1
+[2017.10.19-00.07.03:719][826]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.19-00.07.10:321][417]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.07.12:969][654]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Brick_BP11_10TableTriggerZone_BP_93
+[2017.10.19-00.07.13:013][658]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.07.13:048][661]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Brick_BP12TableTriggerZone_BP_93
+[2017.10.19-00.07.13:058][662]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.19-00.07.15:460][877]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.19-00.07.16:165][940]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.19-00.07.18:365][137]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Brick_BP7TableTriggerZone_BP_93
+[2017.10.19-00.07.18:488][148]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.07.19:136][206]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.19-00.07.26:687][882]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Brick_BP7ToyZoneGood_BP_C_1
+[2017.10.19-00.07.26:743][887]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] Brick_BP7ToyZoneGood_BP_C_1
+[2017.10.19-00.07.28:932][ 83]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.07.30:540][227]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.19-00.07.50:446][  9]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Etch_BP5TableTriggerZone_BP_93
+[2017.10.19-00.07.50:860][ 46]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.07.53:898][318]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Train_BP4TableTriggerZone_BP_93
+[2017.10.19-00.07.54:121][338]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.07.56:255][529]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.07.56:501][551]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.19-00.07.57:071][602]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.08.05:572][363]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] SteeringWheel_BP3ToyZoneGood_BP_C_1
+[2017.10.19-00.08.14:564][168]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Brick_BP6TableTriggerZone_BP_93
+[2017.10.19-00.08.17:346][417]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.08.17:960][472]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.08.30:460][591]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Dollo_BP6TableTriggerZone_BP_93
+[2017.10.19-00.08.30:526][597]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.08.32:403][765]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.08.33:776][888]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.08.35:552][ 47]LogBlueprintUserMessages: [TableTriggerZone_BP_93] Dollo_BP6TableTriggerZone_BP_93
+[2017.10.19-00.08.35:709][ 61]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.08.37:341][207]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.08.42:623][680]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.08.44:366][836]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.19-00.08.52:699][582]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.08.56:263][901]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.08.56:956][963]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.08.57:905][ 48]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.08.59:548][195]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.09.04:550][643]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.09.04:607][648]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.19-00.09.06:461][814]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] SteeringWheel_BP3ToyZoneGood_BP_C_1
+[2017.10.19-00.09.07:076][869]LogBlueprintUserMessages: [ToyZoneGood_BP_C_1] SteeringWheel_BP3ToyZoneGood_BP_C_1
+[2017.10.19-00.09.09:232][ 62]LogBlueprintUserMessages: [TableTriggerZone_BP_93] SteeringWheel_BP3TableTriggerZone_BP_93
+[2017.10.19-00.09.09:344][ 72]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.09.10:640][188]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.19-00.09.11:544][269]LogBlueprintUserMessages: [TableTriggerZone_BP_93] SteeringWheel_BP3TableTriggerZone_BP_93
+[2017.10.19-00.09.12:695][372]LogBlueprintUserMessages: [TableTriggerZone_BP_93] SteeringWheel_BP3TableTriggerZone_BP_93
+[2017.10.19-00.09.13:220][419]LogBlueprintUserMessages: [TableTriggerZone_BP_93] SteeringWheel_BP3TableTriggerZone_BP_93
+[2017.10.19-00.09.15:242][600]LogBlueprintUserMessages: [TableTriggerZone_BP_93] SteeringWheel_BP3TableTriggerZone_BP_93
+[2017.10.19-00.09.29:395][867]LogBlueprintUserMessages: [TableTriggerZone_BP_93] SteeringWheel_BP5TableTriggerZone_BP_93
+[2017.10.19-00.09.29:430][870]LogBlueprintUserMessages: [TableTriggerZone_BP_93] SteeringWheel_BP5TableTriggerZone_BP_93
+[2017.10.19-00.09.29:518][878]LogBlueprintUserMessages: [TableTriggerZone_BP_93] SteeringWheel_BP5TableTriggerZone_BP_93
+[2017.10.19-00.09.36:879][537]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.19-00.09.36:890][538]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.09.41:994][995]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.09.42:017][997]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.19-00.09.44:016][176]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_1TableTriggerZone_BP_93
+[2017.10.19-00.09.44:072][181]LogBlueprintUserMessages: [TableTriggerZone_BP_93] BP_MotionController_C_0TableTriggerZone_BP_93
+[2017.10.19-00.10.09:296][439]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.19-00.10.09:454][439]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.20-01.45.59:727][797]LogTemp: Repeating last play command: VR Preview
+[2017.10.20-01.45.59:750][797]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel' with GeneratedClass '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel:PersistentLevel.DemoLevel'
+[2017.10.20-01.45.59:750][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.20-01.45.59:750][797]PIE: New page: PIE session: DemoLevel (Oct 19, 2017, 11:45:59 AM)
+[2017.10.20-01.45.59:750][797]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel
+[2017.10.20-01.45.59:755][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005068s)
+[2017.10.20-01.45.59:756][797]LogAIModule: Creating AISystem for world DemoLevel
+[2017.10.20-01.45.59:757][797]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2017.10.20-01.45.59:757][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/DemoLevel.DemoLevel to /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel (0.006584s)
+[2017.10.20-01.45.59:781][797]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.20-01.45.59:788][797]LogInit: FAudioDevice initialized.
+[2017.10.20-01.46.01:608][797]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-354F154B
+[2017.10.20-01.46.01:652][797]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.10.20-01.46.01:652][797]LogLoad: Game class is 'GameModeBase'
+[2017.10.20-01.46.01:657][797]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_DemoLevel.DemoLevel up for play (max tick rate 0) at 2017.10.19-18.46.01
+[2017.10.20-01.46.01:658][797]LogWorld: Bringing up level for play took: 0.005330
+[2017.10.20-01.46.01:661][797]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.20-01.46.01:662][797]LogBlueprintUserMessages: [SteeringWheel_BP_2]  SteeringWheel to 
+[2017.10.20-01.46.01:662][797]LogBlueprintUserMessages: [SteeringWheel_BP_2] X=19.164 Y=19.164 Z=4.965
+[2017.10.20-01.46.01:662][797]LogBlueprintUserMessages: [SteeringWheel_BP2] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.20-01.46.01:662][797]LogBlueprintUserMessages: [SteeringWheel_BP2]  SteeringWheel to 
+[2017.10.20-01.46.01:662][797]LogBlueprintUserMessages: [SteeringWheel_BP2] X=19.164 Y=19.164 Z=4.965
+[2017.10.20-01.46.01:662][797]LogBlueprintUserMessages: [SteeringWheel_BP6] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.20-01.46.01:662][797]LogBlueprintUserMessages: [SteeringWheel_BP6]  SteeringWheel to 
+[2017.10.20-01.46.01:662][797]LogBlueprintUserMessages: [SteeringWheel_BP6] X=19.164 Y=19.164 Z=4.965
+[2017.10.20-01.46.01:662][797]LogBlueprintUserMessages: [SteeringWheel_BP3] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.20-01.46.01:662][797]LogBlueprintUserMessages: [SteeringWheel_BP3]  SteeringWheel to 
+[2017.10.20-01.46.01:662][797]LogBlueprintUserMessages: [SteeringWheel_BP3] X=19.164 Y=19.164 Z=4.965
+[2017.10.20-01.46.01:662][797]LogBlueprintUserMessages: [SteeringWheel_BP4] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.20-01.46.01:662][797]LogBlueprintUserMessages: [SteeringWheel_BP4]  SteeringWheel to 
+[2017.10.20-01.46.01:662][797]LogBlueprintUserMessages: [SteeringWheel_BP4] X=19.164 Y=19.164 Z=4.965
+[2017.10.20-01.46.01:662][797]LogBlueprintUserMessages: [SteeringWheel_BP5] X=-19.164 Y=-19.164 Z=-3.300
+[2017.10.20-01.46.01:662][797]LogBlueprintUserMessages: [SteeringWheel_BP5]  SteeringWheel to 
+[2017.10.20-01.46.01:662][797]LogBlueprintUserMessages: [SteeringWheel_BP5] X=19.164 Y=19.164 Z=4.965
+[2017.10.20-01.46.01:664][797]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2017.10.20-01.46.01:676][797]LogOutputDevice: Warning: 
+
+Script Stack:
+BP_MotionController_C.SetupRoomScaleOutline
+BP_MotionController_C.ExecuteUbergraph_BP_MotionController
+BP_MotionController_C.ReceiveBeginPlay
+MotionControllerPawn_C.ExecuteUbergraph_MotionControllerPawn
+MotionControllerPawn_C.ReceiveBeginPlay
+
+[2017.10.20-01.46.02:508][797]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.826 s
+[2017.10.20-01.46.02:508][797]LogOutputDevice: Error: === Handled ensure: ===
+[2017.10.20-01.46.02:508][797]LogOutputDevice: Error: 
+[2017.10.20-01.46.02:508][797]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Core\Private\Math\Matrix.cpp] [Line: 8]
+[2017.10.20-01.46.02:508][797]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2017.10.20-01.46.02:508][797]LogOutputDevice: Error: Stack: 
+[2017.10.20-01.46.02:508][797]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D0633E36
+[2017.10.20-01.46.02:508][797]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D03BC2D2
+[2017.10.20-01.46.02:508][797]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D03D4746
+[2017.10.20-01.46.02:508][797]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D035E1A1
+[2017.10.20-01.46.02:508][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CCD274EB
+[2017.10.20-01.46.02:508][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CD67ABD3
+[2017.10.20-01.46.02:508][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CD6B06C4
+[2017.10.20-01.46.02:508][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D270E944
+[2017.10.20-01.46.02:508][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D28CDDA4
+[2017.10.20-01.46.02:508][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D28E3101
+[2017.10.20-01.46.02:508][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D28E52E2
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D28CE7AE
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D28E52E2
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D28CE7AE
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D28E52E2
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D270E944
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D28E4675
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CCE0B247
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CDFB5B47
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CCDCDC2F
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CCDDABCB
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CCE06959
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CCDE7E03
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CD50BE89
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CCE405B6
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D270E944
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D28CDDA4
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D28E3101
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D290CDA4
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D28E52E2
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D28CE7AE
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D28E52E2
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D270E944
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D28E4675
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CCE0B247
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CDFB5B47
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CCDCDC2F
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CCDDABCB
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CDF9A871
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CD514991
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CDF8601E
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000CD537CF6
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CA75AE6C
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CA78584E
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CA7A1394
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CA20BDF8
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CAA9D646
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor.exe!0x000000003F62534A
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor.exe!0x000000003F633970
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor.exe!0x000000003F6339EA
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor.exe!0x000000003F6402D9
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: UE4Editor.exe!0x000000003F641C47
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: kernel32.dll!0x0000000076DD59CD
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: ntdll.dll!0x0000000076F0A561
+[2017.10.20-01.46.02:509][797]LogOutputDevice: Error: 
+[2017.10.20-01.46.02:518][797]LogStats:                SubmitErrorReport -  0.000 s
